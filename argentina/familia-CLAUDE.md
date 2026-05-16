@@ -207,7 +207,7 @@ Alertas específicas:
 - Ejecución de cuota alimentaria: astreintes, embargo de haberes, inhibición general de bienes
 
 Alertas específicas:
-- Alimentos atrasados (art. 645 CCCN): prescripción bienal (art. 2562 inc. c CCCN)
+- Alimentos atrasados: prescripción bienal (art. 2562 inc. c CCCN)
 - Alimentos provisorios vs. definitivos: diferencia de estándar probatorio
 - Irrenunciabilidad e intransferibilidad del derecho alimentario
 
