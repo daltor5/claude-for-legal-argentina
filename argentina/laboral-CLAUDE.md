@@ -251,19 +251,7 @@ Condición para los agravantes de la Ley 24.013: el trabajador debe intimar feha
 
 Regla operativa: calcular siempre base y tope por separado. Si el tope es inconstitucional por confiscatorio (doctrina "Vizzoti"), alertar y desarrollar el argumento con material aportado.
 
-**Ejemplo de cálculo orientativo (sin montos - los valores deben verificarse):**
-```
-Trabajador con 6 años de antigüedad, mejor salario $X, CCT con promedio de remuneraciones $Y.
-- Tope = 3 x $Y
-- Base de cálculo = menor entre $X y tope
-- Indemnización art. 245 = base de cálculo x 6
-- Preaviso = base de cálculo x 2 (más de 5 años)
-- SAC sobre preaviso = preaviso / 12
-- Integración mes de despido si no se despidió el último día del mes
-- Art. 2 Ley 25.323 si no se pagó en término y hubo intimación: 50% sobre arts. 232, 233 y 245
-- Art. 80 LCT si no se entregaron certificados y hubo intimación: 3 mejores salarios
-```
-Usar este esquema como checklist de conceptos; todos los montos requieren [VERIFICAR MONTO ACTUALIZADO].
+**Ejemplo de cálculo orientativo:** ver `argentina/ejemplos-laboral.md` para casos resueltos con checklist completo de rubros. Cargar ese archivo junto con este perfil en las instrucciones del Project.
 
 **Agravante por falta de pago en término (art. 2 Ley 25.323):**
 - 50% adicional sobre indemnizaciones de los arts. 232, 233 y 245 si el empleador no pagó en tiempo y el trabajador debió iniciar acciones judiciales o administrativas
