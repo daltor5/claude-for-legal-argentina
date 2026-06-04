@@ -5,7 +5,7 @@ ________________________________________
 
 NOTA GENERAL DE BLOQUE
 Art. 2 de la Ley 25.323: DEROGADO por Ley 27.742. Eliminar en todos los modelos el apercibimiento de recargo por esa norma.
-Art. 104 bis LCT: incorporado por Ley 27.742. Habilita al empleador a encuadrar pagos adicionales como componentes retributivos dinamicos sin que generen derechos adquiridos. Verificar el encuadre del concepto reclamado antes de intimar.
+Art. 104 bis LCT: incorporado por Ley 27.802 (art. 33), vigente desde el 6/3/2026. Habilita al empleador a encuadrar pagos adicionales como componentes retributivos dinamicos sin que generen derechos adquiridos. Verificar el encuadre del concepto reclamado antes de intimar.
 Art. 23 LCT (texto según Ley 27.802, art. 13): la presunción de relación laboral no opera con facturacion o pago bancarizado. Aplica a modelos de registro de remuneración real.
 ________________________________________
 
@@ -15,9 +15,9 @@ Lugar y fecha. Habiendo vencido en exceso el plazo previsto en el art. 128 de la
 ________________________________________
 
 Intimando a la actualizacion del salario (ACTUALIZADO)
-Lugar y fecha. Atento reiterados reclamos verbales sin resultado alguno, no encontrandose mis tareas amparadas bajo ningun convenio colectivo de trabajo y encontrandose mi salario congelado desde hace más de un año mientras el personal convencionado ve incrementado el suyo por acuerdos sindicales, lo intimo a que en el plazo de 48 horas informe si dara favorable acogida a lo requerido, bajo apercibimiento de considerarme injuriado y despedido por vuestra exclusiva culpa y responsabilidad. Su conducta deviene ilegitima por discriminatoria. Hago retención de tareas hasta que de cumplimiento a mis intimaciones (arts. 1031 y 1032 CCCN). Reservo derechos por salarios caidos. Queda Ud. debidamente notificado.
+Lugar y fecha. Atento reiterados reclamos verbales sin resultado alguno, no encontrandose mis tareas amparadas bajo ningun convenio colectivo de trabajo y encontrandose mi salario congelado desde hace más de un año mientras el personal convencionado ve incrementado el suyo por acuerdos sindicales, lo intimo a que en el plazo de 48 horas informe si dara favorable acogida a lo requerido, bajo apercibimiento de considerarme injuriado y despedido por vuestra exclusiva culpa y responsabilidad. Su conducta deviene ilegitima por discriminatoria. Hago retención de tareas hasta que de cumplimiento a mis intimaciones (arts. 1031 y 1032 CCyCN). Reservo derechos por salarios caidos. Queda Ud. debidamente notificado.
 
-Revisar antes de enviar: la retención de tareas fundada en el art. 1031 CCCN puede sostenerse como excepcion de incumplimiento, pero existe riesgo de que el empleador la interprete como abandono. Evaluar el caso concreto antes de incluirla.
+Revisar antes de enviar: la retención de tareas fundada en el art. 1031 CCyCN puede sostenerse como excepcion de incumplimiento, pero existe riesgo de que el empleador la interprete como abandono. Evaluar el caso concreto antes de incluirla.
 
 ________________________________________
 
@@ -44,7 +44,7 @@ ________________________________________
 Intimando al pago del bono (ACTUALIZADO)
 Lugar y fecha. Me dirijo a Ud. con el fin de intimarlo a que en el plazo perentorio e improrrogable de 48 horas de recibida la presente proceda a abonar la suma correspondiente al concepto "Bono por [especificar motivo]", el cual me fuera informado y/o prometido oportunamente y que a la fecha se encuentra adeudado. La intimación dispuesta lo es bajo apercibimiento de considerarme injuriado y despedido por vuestra exclusiva culpa y responsabilidad. Reservo derechos. Queda Ud. debidamente notificado.
 
-Revisar antes de enviar: el art. 104 bis LCT (incorporado por Ley 27.742) habilita al empleador a encuadrar pagos adicionales como componentes retributivos dinamicos sin que generen derechos adquiridos. Verificar si el bono reclamado fue otorgado por acuerdo, por costumbre sostenida o por decisión unilateral del empleador antes de redactar esta comunicación. Si el empleador lo encuadra en el art. 104 bis, el argumento de la intimación queda comprometido.
+Revisar antes de enviar: el art. 104 bis LCT (incorporado por Ley 27.802, art. 33, vigente desde el 6/3/2026) habilita al empleador a encuadrar pagos adicionales como componentes retributivos dinamicos sin que generen derechos adquiridos. Verificar si el bono reclamado fue otorgado por acuerdo, por costumbre sostenida o por decisión unilateral del empleador antes de redactar esta comunicación. Si el empleador lo encuadra en el art. 104 bis, el argumento de la intimación queda comprometido.
 
 ________________________________________
 
@@ -99,11 +99,11 @@ Marcadores pendientes:
 
 Normas con vigencia confirmada:
 - LCT arts. 124, 125, 128, 208: VIGENTES, sin modificaciones relevantes para estos modelos.
-- LCT art. 104 bis: INCORPORADO por Ley 27.742. Aplica a bonos y componentes retributivos dinamicos.
+- LCT art. 104 bis: INCORPORADO por Ley 27.802, art. 33, vigente desde el 6/3/2026. Aplica a bonos y componentes retributivos dinamicos.
 - LCT art. 23: reformado por Ley 27.802, art. 13.
 - Ley 24.013, art. 11: DEROGADO por art. 99 Ley 27.742 desde el 9/7/2024. Fundamento vigente para intimación de registro de remuneración real: arts. 7 y 7 bis. Multas (arts. 8, 9, 10 y 15): DEROGADAS.
 - Ley 25.323, arts. 1 y 2: DEROGADOS por Ley 27.742.
-- Arts. 1031 y 1032 CCCN: VIGENTES.
+- Arts. 1031 y 1032 CCyCN: VIGENTES.
 
 Decisiones estructurales por defecto:
 - Eliminado el apercibimiento del art. 2 de la Ley 25.323 en todos los modelos donde aparecia.

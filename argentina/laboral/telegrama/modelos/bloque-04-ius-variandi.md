@@ -5,7 +5,7 @@ ________________________________________
 
 NOTA GENERAL DE BLOQUE
 Art. 66 LCT (texto según Ley 27.802, art. 23): el empleador puede introducir cambios en la forma y modalidades de la prestacion siempre que no alteren modalidades esenciales del contrato ni causen perjuicio material al trabajador. La acción sumarísima de restablecimiento de condiciones NO EXISTE bajo el texto vigente. La única via del trabajador ante el ius variandi abusivo es intimar el restablecimiento y, si la intimación es desoida, considerarse despedido sin causa.
-La retención de tareas fundada en los arts. 1031 y 1032 CCCN puede mantenerse como excepcion de incumplimiento, pero existe riesgo de que el empleador la interprete como abandono. Evaluar el caso concreto antes de incluirla.
+La retención de tareas fundada en los arts. 1031 y 1032 CCyCN puede mantenerse como excepcion de incumplimiento, pero existe riesgo de que el empleador la interprete como abandono. Evaluar el caso concreto antes de incluirla.
 ________________________________________
 
 Solicitando el restablecimiento de las condiciones laborales modificadas (ACTUALIZADO)
@@ -16,9 +16,9 @@ Revisar antes de enviar: el texto vigente del art. 66 LCT elimino la protección
 ________________________________________
 
 Perjuicio por cambio de tareas (ACTUALIZADO)
-Lugar y fecha. Rechazo por ilegitima la modificación de mi puesto de trabajo comunicada en fecha [fecha], consistente en el cambio de [cargo anterior] a [cargo nuevo], lo que me causa un perjuicio concreto al [especificar: desprestigiarme frente a mis subordinados / reducir mis responsabilidades / afectar mi categoría]. Lo intimo a que en el plazo de 48 horas restablezca mis condiciones habituales de trabajo, bajo apercibimiento de considerarme injuriado y despedido por su exclusiva responsabilidad (art. 66 LCT, texto según Ley 27.802). Hago retención de tareas (art. 1031 CCCN). Queda Ud. debidamente notificado.
+Lugar y fecha. Rechazo por ilegitima la modificación de mi puesto de trabajo comunicada en fecha [fecha], consistente en el cambio de [cargo anterior] a [cargo nuevo], lo que me causa un perjuicio concreto al [especificar: desprestigiarme frente a mis subordinados / reducir mis responsabilidades / afectar mi categoría]. Lo intimo a que en el plazo de 48 horas restablezca mis condiciones habituales de trabajo, bajo apercibimiento de considerarme injuriado y despedido por su exclusiva responsabilidad (art. 66 LCT, texto según Ley 27.802). Hago retención de tareas (art. 1031 CCyCN). Queda Ud. debidamente notificado.
 
-Revisar antes de enviar: la acción sumarísima de restablecimiento fue suprimida. La retención de tareas del art. 1031 CCCN puede sostenerse como excepcion de incumplimiento, pero evaluar el riesgo de que el empleador la interprete como abandono antes de incluirla.
+Revisar antes de enviar: la acción sumarísima de restablecimiento fue suprimida. La retención de tareas del art. 1031 CCyCN puede sostenerse como excepcion de incumplimiento, pero evaluar el riesgo de que el empleador la interprete como abandono antes de incluirla.
 
 ________________________________________
 
@@ -46,7 +46,7 @@ Marcadores pendientes:
 
 Normas con vigencia confirmada:
 - LCT art. 66: reformado por Ley 27.802, art. 23. Vigente desde el 6/3/2026. Suprime la acción sumarísima de restablecimiento y la protección frente al perjuicio moral. Solo subsiste la via del despido indirecto previa intimación desatendida.
-- Arts. 1031 y 1032 CCCN: VIGENTES. Aplicacion como excepcion de incumplimiento, con el riesgo de interpretacion como abandono según el caso.
+- Arts. 1031 y 1032 CCyCN: VIGENTES. Aplicacion como excepcion de incumplimiento, con el riesgo de interpretacion como abandono según el caso.
 
 Decisiones estructurales por defecto:
 - Eliminada en todos los modelos cualquier referencia a acción sumarísima de restablecimiento.
