@@ -336,37 +336,30 @@ No son necesarios para empezar. Los perfiles funcionan solos. Los conectores mej
 
 ---
 
-### MCP LEGAL AR - 8 conectores en 1 (recomendado)
+### MCP LEGAL AR - 11 conectores en 1 (recomendado)
 
 Hub unificado que concentra las principales fuentes jurídicas argentinas en un solo servidor local. Sin servidores externos, sin dependencia de terceros.
 
 **[GitHub](https://github.com/cristianaboitiz-eng/mcp-legal-ar)** · Instalación: ver README del repositorio.
 
-| Conector incluido | Fuente | Función |
-|---|---|---|
-| **BORA** | Boletín Oficial de la Nación | Normas nacionales publicadas, nuevas sociedades, licitaciones |
-| **InfoLeg** | infoleg.gob.ar | Texto oficial de normas nacionales, vigencia y articulado |
-| **BOPBA** | Boletín Oficial PBA | Normas publicadas en el BOPBA, búsqueda por fecha y número |
-| **Normativa PBA** | normas.gba.gob.ar | Legislación provincial PBA: texto, vigencia, articulado |
-| **SCBA** | scba.gov.ar | Sentencias y resoluciones de primera instancia PBA |
-| **JUBA** | juba.scba.gov.ar | Fallos SCBA y cámaras de apelación PBA |
-| **PTN** | busquedadictamenes.ptn.gob.ar | Dictámenes de la Procuración del Tesoro de la Nación |
-| **TFN** | tfn.gob.ar | Jurisprudencia y resoluciones TFN: impositivo y aduanero, descarga PDF |
+| Conector incluido | Descripción |
+|---|---|
+| 📚 **Normativa** | |
+| [**BORA** - Boletín Oficial de la República Argentina](https://www.boletinoficial.gob.ar) | Acceso a publicaciones oficiales nacionales: leyes, decretos, resoluciones, disposiciones, actos administrativos, edictos y avisos oficiales. |
+| [**InfoLEG** - Información Legislativa](https://www.infoleg.gob.ar) | Consulta de normativa nacional actualizada y consolidada: leyes, decretos, resoluciones y sus modificaciones históricas. |
+| [**BOPBA** - Boletín Oficial de la Provincia de Buenos Aires](https://www.boletinoficial.gba.gob.ar) | Publicaciones oficiales de la Provincia de Buenos Aires: normas, decretos, resoluciones y actos administrativos. |
+| [**Normativa PBA**](https://normas.gba.gob.ar) | Consulta de legislación provincial bonaerense: leyes, decretos y normativa vigente. |
+| ⚖️ **Jurisprudencia** | |
+| [**SCBA** - Suprema Corte de Justicia de Buenos Aires](https://sentencias.scba.gov.ar) | Acceso a sentencias y resoluciones de la Suprema Corte bonaerense. |
+| [**JUBA** - Jurisprudencia Buenos Aires](https://juba.scba.gov.ar) | Búsqueda de fallos de la SCBA y cámaras departamentales por texto, fuero, carátula y período. |
+| [**SAIJ** - Sistema Argentino de Información Jurídica](https://saij.gob.ar) | Base jurídica del Ministerio de Justicia con jurisprudencia, legislación, doctrina y dictámenes (330.000+ documentos). |
+| [**PJN Jurisprudencia**](https://sj.pjn.gov.ar) | Consulta de jurisprudencia nacional y federal con búsqueda por materia, sala y período. |
+| 🏛️ **Organismos** | |
+| [**PTN** - Procuración del Tesoro de la Nación](https://busquedadictamenes.ptn.gob.ar) | Acceso a dictámenes y doctrina administrativa del máximo órgano asesor del Estado Nacional. |
+| [**TFN** - Tribunal Fiscal de la Nación](https://www.tfn.gob.ar) | Consulta de resoluciones y jurisprudencia en materia tributaria y aduanera. |
+| [**PJN Consulta**](https://www.pjn.gov.ar) | Consulta de estado procesal de expedientes del Poder Judicial de la Nación (captcha resuelto por el usuario vía navegador). |
 
 **Nota sobre Normativa PBA:** la herramienta de vigencia consulta normas.gba.gob.ar y reproduce su estado tal como está cargado. El portal puede tener errores en relaciones de derogación. Usalo como primer filtro y verificá siempre contra el Boletín Oficial PBA ante cualquier resultado que parezca anómalo.
-
----
-
-### PJN - Expedientes y Jurisprudencia (no cubiertos por MCP LEGAL AR)
-
-Instalación por URL en Claude.ai: **Settings → Integrations → Add MCP Server**.
-
-| Conector | Qué hace | Repositorio |
-|---|---|---|
-| **PJN** - Expedientes | Estado procesal de causas: movimientos, carátula, fecha de última actuación | [GitHub](https://github.com/voftec/pjn-consulta-mcp) |
-| **PJN** - Jurisprudencia | Fallos y sentencias federales para investigación previa a la redacción de escritos | [GitHub](https://github.com/voftec/pjn-juris-mcp) |
-
-Son complementarios, no equivalentes.
 
 ---
 
@@ -382,7 +375,6 @@ Requieren instalación por comando o manual. Los conectores con `uvx` requieren 
 | saij-mcp (Escalante) | SAIJ | Investigación profunda: grafo legal, OCR para PDFs históricos | [GitHub](https://github.com/joaquinescalante23/saij-mcp) |
 | guidobonomini | Local | Análisis semántico y terminológico de textos jurídicos | [GitHub](https://github.com/guidobonomini/argentina-law-mcp-server) |
 | macos-use | Desktop | Automatización de portales sin API (PJN, SCBA, IGJ) - solo Mac, solo Claude Code | [GitHub](https://github.com/mediar-ai/mcp-server-macos-use) |
-| scba-mcp-server | SCBA | Sentencias y resoluciones de primera instancia PBA (sentencias.scba.gov.ar): búsqueda por organismo, fecha y texto libre; descarga y guarda documentos en disco. Requiere Chrome + chromedriver instalados localmente. No cubre JUBA (Cámaras / SCBA). | [GitHub](https://github.com/FacundoEmanuel/scba-mcp-server) |
 
 **Ecosistema Hernán Caravario (hernan-cc):** saij-mcp, csjn-mcp y juscaba-mcp son parte del mismo ecosistema. Podés instalar los tres en simultáneo; Claude elige cuál usar según la consulta. Ver todos en [github.com/hernan-cc](https://github.com/hernan-cc).
 
