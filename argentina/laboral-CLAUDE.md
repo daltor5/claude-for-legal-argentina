@@ -47,11 +47,11 @@ No aplica doctrinas de common law laboral (at-will employment, wrongful terminat
 
 ## Alerta normativa - Reforma laboral 2023-2024 vigente operacionalmente
 
-*Última verificación: mayo 2026.*
+*Última verificación: junio 2026.*
 
-El **DNU 70/2023** (vigente desde 30-dic-2023) y la **Ley 27.742** (Ley Bases, 9-jul-2024) reformaron sustantivamente la LCT. La medida cautelar inicial de la CGT contra el Título IV del DNU fue **levantada por la Cámara Nacional del Trabajo en Acuerdo Pleno de abril 2026**, reactivando operativamente la reforma laboral.
+El **DNU 70/2023** (vigente desde 30-dic-2023), la **Ley 27.742** (Ley Bases, 9-jul-2024) y la **Ley 27.802** (Modernización Laboral, 6-mar-2026) reformaron sustantivamente la LCT. La cronología cautelar de la Ley 27.802 es la siguiente: el Juzgado Nacional del Trabajo N°63 suspendió 82 artículos el 30/3/2026 a pedido de la CGT; la Sala VIII de la CNAT levantó esa suspensión el 23/4/2026 al otorgar efecto suspensivo a la apelación del Estado Nacional; el 28/4/2026 la Sala IV de la Cámara Contencioso Administrativo Federal resolvió que la causa tramita en ese fuero; el 8/5/2026 el Juzgado CAF N°12 (jueza Marra Giménez) dejó sin efecto la cautelar de primera instancia por incompetencia del fuero laboral. La acción de fondo de la CGT continúa en el fuero contencioso administrativo federal sin cautelar activa.
 
-**Estado actual (mayo 2026): la reforma está vigente operacionalmente.**
+**Estado actual (junio 2026): la Ley 27.802 rige en forma plena desde el 23/4/2026. No existe mecanismo cautelar activo que suspenda artículos.**
 
 **Áreas afectadas - régimen vigente:**
 - Período de prueba (art. 92 bis LCT): extendido de 3 meses a **6 meses** como regla general (art. 91 Ley 27.742); ampliable a 8 meses por CCT en empresas de 6 a 100 trabajadores, y a 1 año por CCT en empresas de hasta 5 trabajadores. Las ampliaciones requieren CCT expreso; no operan automáticamente (ver sección indemnizaciones)
@@ -108,6 +108,11 @@ El sistema identifica el fuero al inicio de cada consulta. No transpola instituc
 ### Derecho individual del trabajo
 
 - **LCT (Ley 20.744)** y modificatorias (texto consolidado con DNU 70/2023, Ley 27.742 y Ley 27.802) - fuente principal del contrato de trabajo
+- **Decreto 407/2026 (BO 1/6/2026):** reglamentación de los arts. 52, 103 bis, 105, 132 inc. f, 140, 210, 240, 241 y 252 LCT modificados por la Ley 27.802. Regula el nuevo modelo de recibo de sueldo (Anexo III), la registración en ARCA, viáticos, licencias médicas digitales (ReNaPDiS), renuncia ante la autoridad administrativa y homologación de acuerdos extintivos.
+- **Decreto 408/2026 (BO 1/6/2026):** reglamentación del FAL (Fondo de Asistencia Laboral, Título II Ley 27.802). Inicio diferido al 1/11/2026. Contribuciones mensuales de empleadores vía ARCA canalizadas a vehículos de inversión colectiva supervisados por CNV. Acceso condicionado a trabajador registrado con antigüedad mínima de 12 meses. El FAL no modifica el régimen indemnizatorio vigente.
+- **Decreto 409/2026 (BO 1/6/2026):** moratoria laboral — empleadores pueden regularizar relaciones no registradas vigentes al 6/3/2026 con condonación de hasta el 90% para micro y pequeñas empresas y 100% en SNSALUD y ART. Los períodos regularizados computan como tiempo de servicio.
+- **RG ARCA 5848/2026 (BO 18/5/2026):** reglamentación operativa del certificado digital del art. 80 LCT. Formulario F.984 vía sistema "Simplificación Registral" en arca.gob.ar. Dos formatos: digital (sin firma holográfica, Clave Fiscal nivel 2) o físico. El trabajador accede al certificado digital desde el servicio "Trabajo en Blanco" de ARCA. Deroga RG 2316 y Título III de RG 5250.
+- **Decreto 315/2026 + RG ARCA 5844/2026:** Régimen de Incentivo a la Formalización Laboral (RIFL) — reducción de alícuotas en contribuciones patronales (SIPA, AAFF, FNE, INSSJP) por 48 meses para nuevas relaciones laborales registradas entre 1/5/2026 y 30/4/2027.
 - **Ley 24.013 (Ley de Empleo):** registración, empleo no registrado. Art. 11 (intimación de registro): DEROGADO por art. 99 Ley 27.742 desde el 9/7/2024; fundamento vigente para intimaciones de registro: arts. 7, 7 bis, 7 ter y 7 quáter (texto según Ley 27.742 y Ley 27.802). Arts. 8, 9, 10 y 15 (agravantes indemnizatorios): DEROGADOS por Ley 27.742 para actos extintivos desde el 9/7/2024. Ver tabla en sección "Registración del contrato".
 - **Ley 25.323:** Art. 1 (duplicación por falta de registración) y art. 2 (recargo por falta de pago en término): DEROGADOS por Ley 27.742 para actos extintivos desde el 9/7/2024. Ver sección "Extinción del contrato".
 - **Ley 25.345:** arts. 43 a 48 DEROGADOS por art. 99 Ley 27.742 desde el 9/7/2024. El art. 45 (multa por falta de certificados) no aplica para extinciones desde esa fecha. La obligación de entrega de certificados subsiste bajo el art. 80 LCT reformado por Ley 27.802.
@@ -116,7 +121,7 @@ El sistema identifica el fuero al inicio de cada consulta. No transpola instituc
 - **Ley 12.981:** encargados de casas de renta
 - **Ley 26.844:** personal de casas particulares
 - **Ley 24.467 y 25.013:** PyMES - régimen diferenciado en algunos institutos
-- **Ley 27.555:** teletrabajo - aplicable cuando el trabajo remoto está pactado por escrito
+- **Ley 27.555:** teletrabajo - aplicable cuando el trabajo remoto está pactado por escrito. **ATENCIÓN: derogada a partir del 1° de enero de 2027 por art. 199 Ley 27.802.** Durante 2026 la ley sigue vigente. Desde 2027 el teletrabajo se regirá por los CCT de actividad y los acuerdos individuales en el marco de la LCT general.
 - **Decreto 433/94 y modificatorias:** régimen de registro de empleados anterior a la reforma; superado por el art. 52 LCT (texto según Ley 27.802, art. 20) que unificó el registro en ARCA
 
 ### Accidentes y enfermedades del trabajo
@@ -130,7 +135,7 @@ El sistema identifica el fuero al inicio de cada consulta. No transpola instituc
 
 ### Derecho colectivo
 
-- **Ley 14.250 (Convenios Colectivos de Trabajo)** y modificatorias
+- **Ley 14.250 (Convenios Colectivos de Trabajo)** y modificatorias. **ATENCIÓN - Ley 27.802 (art. 211, vigente desde 6/3/2026):** los arts. 10, 16 y 21 de la Ley 14.250 fueron DEROGADOS. El art. 10 establecía la ultraactividad automática e integral de los CCT vencidos; su derogación elimina esa automaticidad. La ultraactividad de las cláusulas normativas subsiste en forma acotada pero el alcance exacto es objeto de debate doctrinal y no hay jurisprudencia consolidada. Verificar el estado de cada CCT vencido antes de asesorar sobre derechos emergentes de él.
 - **Ley 23.551 (Asociaciones Sindicales)** y modificatorias
 - **Ley 14.786 (Conciliación y Arbitraje en Conflictos Colectivos)**
 - **Ley 25.877:** ordenamiento laboral, negociación colectiva
@@ -173,9 +178,16 @@ Las reglas generales del CLAUDE.md argentino aplican íntegramente. Específicas
 [VERIFICAR MONTO ACTUALIZADO: concepto - fuente de actualización aplicable]
 ```
 
-**Tasas de interés:** no existe criterio unificado vigente desde el Acta CNAT 2788/2024 (21/08/2024), que dejó sin efecto las Actas 2783 y 2784 sin establecer nueva tasa. Cada sala aplica su propio criterio. Referencias actuales al momento de redacción de este archivo (mayo 2026): Sala III aplica RIPTE + porcentaje de interés puro; Sala VIII aplica CER como interés moratorio desde exigibilidad; Sala V aplica CER + 3% anual puro con capitalización en notificación. Verificar el criterio de la sala sorteada antes de calcular. El Acta 2764/2022 (tasa activa + capitalización anual) fue dejada sin efecto por la CSJN en el fallo "Oliva". No citarla como vigente. Usar:
+**Tasas de interés post-Ley 27.802:** la Ley 27.802 introdujo un nuevo régimen de intereses en los arts. 54, 55 y 56 LCT reformados. El art. 54 fija para nuevos créditos el IPC + 3% anual. El art. 55 regula los juicios en trámite al 6/3/2026: tasa pasiva BCRA, con piso del 67% del resultado anterior y tope de IPC + 3% anual. El art. 56 autoriza el pago en cuotas de sentencias laborales.
+
+**Estado jurisprudencial a junio 2026 (elDial, mayo 2026):**
+- **Art. 55 (intereses en juicios en trámite):** criterio dominante en CNAT es aplicarlo y rechazar la inconstitucionalidad (Salas II, III, V, VII, VIII, IX, X en distintos fallos de marzo-mayo 2026). La Sala VIII lo aplicó expresamente dejando sin efecto el Acta 2764/2022. Minorías en varias salas y algunos juzgados de primera instancia y provinciales lo declaran inconstitucional y aplican IPC + 3% anual. El debate no está cerrado.
+- **Art. 56 (pago en cuotas de sentencias):** la mayoría de los pronunciamientos disponibles lo declaran inconstitucional (Juzgados laborales CABA, San Luis, Mendoza; Cámara del Trabajo de Córdoba, Cámara del Trabajo de Villa María). No se registra criterio que lo avale con fundamento desarrollado.
+- **Acta 2764/2022 (tasa activa + capitalización):** dejada sin efecto por la CSJN en el fallo "Oliva" y confirmado por la Sala VIII post-Ley 27.802. No citarla como vigente.
+
+**Regla operativa:** antes de calcular o mencionar intereses en cualquier escrito, verificar: (a) si el juicio es anterior o posterior al 6/3/2026 para determinar si aplica art. 54 o art. 55; (b) el criterio de la sala sorteada sobre el art. 55 a la fecha del escrito; (c) si el empleador intentó el pago en cuotas del art. 56, preparar rechazo con fundamento en las inconstitucionalidades ya declaradas. Usar siempre:
 ```
-[VERIFICAR TASA VIGENTE: sin acta unificada - criterio según sala sorteada - verificar jurisprudencia reciente de la sala]
+[VERIFICAR TASA VIGENTE: art. 54 o 55 según fecha del juicio - criterio de la sala sorteada a la fecha del escrito]
 ```
 
 ---
@@ -184,7 +196,9 @@ Las reglas generales del CLAUDE.md argentino aplican íntegramente. Específicas
 
 El sistema aplica estos principios como pautas interpretativas en cada análisis, no como argumentos retóricos:
 
-**Principio protectorio (art. 9 LCT):** ante la duda sobre la interpretación o aplicación de la norma, se resuelve a favor del trabajador. Aplicar en análisis de encuadre convencional, calificación de la relación y extensión de derechos.
+**Principio protectorio (art. 9 LCT, texto según Ley 27.802, art. 3 - vigente desde 6/3/2026):** ante la duda sobre la interpretación o aplicación de la norma, se resuelve a favor del trabajador. Aplicar en análisis de encuadre convencional, calificación de la relación y extensión de derechos.
+
+> **ALERTA REFORMA - art. 9 LCT:** la Ley 27.802 (art. 3) modificó el art. 9 LCT acotando el alcance del principio in dubio pro operario. El texto reformado adopta el criterio de análisis por institutos: se aplica la norma más favorable instituto por instituto, no sobre el conjunto del régimen. La reforma está vigente en forma plena desde el 23/4/2026. La constitucionalidad de esta modificación está siendo litigada ante el fuero contencioso administrativo federal (CGT c/ Estado Nacional, en trámite sin cautelar activa). Verificar el estado del litigio antes de argumentar sobre el alcance de este principio en escritos.
 
 **In dubio pro operario (art. 9 LCT, segundo párrafo):** ante la duda sobre los hechos, si no hay prueba en contrario, se presume a favor del trabajador. Relevante para el análisis de la carga probatoria.
 
@@ -200,7 +214,9 @@ El sistema aplica estos principios como pautas interpretativas en cada análisis
 
 ### Contrato de trabajo - existencia y encuadre
 
-**Presunción de relación laboral (art. 23 LCT):** la prestación de servicios hace presumir la existencia de contrato de trabajo, salvo que el empleador acredite lo contrario. La carga de la prueba se invierte.
+**Presunción de relación laboral (art. 23 LCT, texto según Ley 27.802, art. 13 - vigente desde 6/3/2026):** la prestación de servicios en situación de dependencia hace presumir la existencia de contrato de trabajo, salvo que el empleador acredite lo contrario. La carga de la prueba se invierte.
+
+**Excepción incorporada por Ley 27.802:** la presunción no opera cuando se trate de contrataciones de obra, servicios profesionales u oficios y se emitan facturas o recibos correspondientes, o el pago se realice por medios bancarios conforme la reglamentación. La ausencia de presunción se extiende a los efectos previsionales. Para que opere la excepción deben verificarse acumulativamente: (a) contratación genuina de obra, servicios profesionales u oficios - no dependencia encubierta; (b) facturación real emitida; (c) pago bancarizado. Si hay subordinación efectiva, la excepción no aplica aunque exista facturación. La constitucionalidad de esta excepción está siendo litigada ante el fuero contencioso administrativo federal (CGT c/ Estado Nacional, en trámite sin cautelar activa a junio 2026).
 
 Preguntas de diagnóstico:
 1. ¿Hay contrato escrito? ¿Qué forma le dieron las partes a la relación?
@@ -218,9 +234,9 @@ Alertas específicas:
 ### Registración del contrato
 
 **Obligaciones del empleador:**
-- Alta temprana en ARCA antes del primer día de trabajo (art. 52 LCT, texto según Ley 27.802, art. 20)
-- Registro unificado en ARCA: ya no se menciona "libro especial del art. 52" anterior a la reforma
-- Recibos de sueldo firmados por el trabajador
+- Alta temprana en ARCA antes del primer día de trabajo (art. 52 LCT, texto según Ley 27.802, art. 20; reglamentado por Decreto 407/2026, Anexo I art. 1, BO 1/6/2026)
+- La inscripción en ARCA es suficiente a todos los efectos legales, sin requisitos administrativos adicionales y sin libros de sueldos en soporte físico. Los libros preexistentes deben conservarse por 10 años (Decreto 407/2026)
+- Recibo de sueldo conforme al modelo oficial del Anexo III del Decreto 407/2026: cuatro secciones obligatorias (datos del empleador y trabajador; contribuciones del empleador; remuneración bruta y deducciones; remuneración neta) más resumen de costo laboral en el anverso agrupado en siete rubros mínimos (sindical, seguridad social, obra social, INSSJP, ART, cámaras empresariales, otros). Un recibo que omita el resumen del costo laboral o no agrupe los conceptos en los rubros exigidos queda fuera de norma (Decreto 407/2026, Anexo I art. 5)
 
 **Consecuencias de la falta de registración o registración deficiente:**
 
@@ -251,6 +267,17 @@ Condición para los agravantes de la Ley 24.013 (solo para hechos anteriores al 
 **Horas extras (art. 201 LCT):**
 - Límite: 3 horas diarias, 30 mensuales, 200 anuales (art. 1 Ley 11.544)
 - Valor: 50% adicional días hábiles, 100% adicional sábados después de las 13, domingos y feriados
+
+**Banco de horas (art. 197 bis LCT, texto según art. 42 Ley 27.802, vigente desde 6/3/2026):**
+El art. 197 bis fue originalmente incorporado por el DNU 70/2023, que reservaba el banco de horas a convenios colectivos. La Ley 27.802 (art. 42) lo sustituyó habilitando el acuerdo **individual** entre empleador y trabajador. Requisitos: (a) acuerdo escrito consignando la naturaleza voluntaria y los límites de la prestación; (b) especificación del modo de funcionamiento del sistema; (c) método fehaciente de control de horas trabajadas y horas disponibles para compensar. Puede instrumentarse como banco de horas, francos compensatorios u otros mecanismos de jornada. También puede pactarse con la representación sindical en la empresa. Debe respetar los descansos mínimos legales (pausa mínima de 12 horas entre jornadas, art. 197 LCT) en todo momento.
+
+**Impacto operativo del banco de horas:**
+- Si está vigente un acuerdo de banco de horas, las horas extra trabajadas no generan el recargo del art. 201 si se compensan dentro del régimen acordado.
+- El trabajador que rechaza el banco de horas o que el empleador lo impone unilateralmente puede fundar una intimación en el art. 66 LCT (ius variandi abusivo) si el acuerdo no fue libre y escrito.
+- Verificar en cada caso si el banco de horas se instrumentó con los requisitos del art. 197 bis o si encubre horas extras no pagas.
+
+**Horas extras: base del art. 245 vs. base del preaviso (art. 232)**
+Las horas extras están excluidas de la base del art. 245 LCT desde el 6/3/2026 (Ley 27.802, art. 51). Sin embargo, el art. 232 LCT no fue modificado por la Ley 27.802 — su última reforma es la Ley 25.877 (2004). La indemnización sustitutiva de preaviso se calcula sobre "la remuneración que correspondería al trabajador durante los plazos señalados en el art. 231", sin la restricción del art. 245. Por lo tanto: las horas extras habituales **sí integran la base del preaviso** aunque no integren la base del art. 245. Son dos bases con reglas distintas. Verificado en Infoleg (texto actualizado al 6/3/2026).
 
 **No remunerativo:** los conceptos declarados no remunerativos por decreto o acuerdo colectivo no integran la base de cálculo de las indemnizaciones, pero su constitucionalidad es discutida. Alertar cuando el empleador los invoca para reducir la base de cálculo.
 
@@ -359,13 +386,15 @@ Alertas específicas:
 - Válida por telegrama obrero en formato físico o digital con validación de identidad, o ante la autoridad administrativa del trabajo (Ley 27.802)
 - No genera derecho a indemnización
 - Alertar siempre: verificar si fue libre y espontánea o si encubre un despido encubierto
+- **Reglamentación Decreto 407/2026 (Anexo I art. 7, BO 1/6/2026):** la Secretaría de Trabajo debe dictar el procedimiento específico para formalizar la renuncia ante la autoridad administrativa con registro y notificación fehaciente al empleador. A la fecha ese procedimiento secundario aún no fue dictado. Verificar antes de tramitar una renuncia por la vía administrativa si el procedimiento ya está operativo.
 
 #### Mutuo acuerdo (art. 241 LCT)
 
 - Debe formalizarse ante la autoridad judicial o administrativa o en escritura pública
 - Sin esas formalidades, es ineficaz
 - Las partes pueden acordar una suma a favor del trabajador, pero no puede implicar renuncia a derechos futuros
-- Alerta: evaluar siempre si el acuerdo encubre un despido (art. 14 LCT). La homologación administrativa o judicial cumple una función de control de proporcionalidad: sin ese control, la eficacia liberatoria del acuerdo frente al art. 12 LCT es cuestionable cuando implica resignar rubros litigiosos. Si hay duda sobre si el acuerdo es genuino o simula un despido, aplicar art. 15 LCT y derivar a homologación con revisión de proporcionalidad.
+- **Reglamentación Decreto 407/2026 (Anexo I art. 8, BO 1/6/2026):** los acuerdos extintivos presentados ante la autoridad administrativa se homologan conforme al art. 15 LCT previa verificación de: (a) legalidad; (b) ausencia de vicios del consentimiento; (c) justa composición de intereses. El decreto fija expresamente ese estándar triple como requisito de la homologación administrativa.
+- Alerta: evaluar siempre si el acuerdo encubre un despido (art. 14 LCT). La homologación cumple una función de control de proporcionalidad: sin ese control, la eficacia liberatoria del acuerdo frente al art. 12 LCT es cuestionable cuando implica resignar rubros litigiosos. Si hay duda sobre si el acuerdo es genuino o simula un despido, derivar a homologación con revisión de proporcionalidad.
 
 #### Extinción por incapacidad o inhabilidad (arts. 212-213 LCT)
 
@@ -378,6 +407,7 @@ Alertas específicas:
 - El empleador puede intimar al trabajador a iniciar el trámite jubilatorio
 - Plazo máximo de permanencia: un año desde la intimación
 - Al cesar: indemnización del 25% del art. 245
+- **Reglamentación Decreto 407/2026 (Anexo I art. 9, BO 1/6/2026):** la ANSES debe implementar un sistema de notificación del inicio y la finalización del trámite jubilatorio dirigido a empleadores y agentes del seguro de salud. Cuando esté operativo, el empleador podrá verificar directamente el estado del trámite.
 
 ### Maternidad y estabilidad por embarazo (arts. 177-179 LCT)
 
@@ -401,6 +431,22 @@ Preguntas de diagnóstico:
 Alertas específicas:
 - La trabajadora debe haber notificado el embarazo al empleador: sin notificación fehaciente, la presunción del art. 178 puede no activarse según criterio del fuero. Verificar jurisprudencia de la sala.
 - El art. 182 acumula con las indemnizaciones ordinarias; no las reemplaza.
+
+### Enfermedades inculpables (arts. 208-213 LCT)
+
+**Plazo de conservación del empleo (art. 208 LCT):** el empleador debe conservar el puesto y abonar la remuneración durante la enfermedad inculpable por los plazos que correspondan según la antigüedad del trabajador y sus cargas de familia.
+
+**Licencias médicas - reglamentación Decreto 407/2026 (Anexo I art. 6, BO 1/6/2026):** toda prescripción con reposo laboral debe contener obligatoriamente:
+- Diagnóstico
+- Tratamiento indicado
+- Cantidad de días de reposo
+
+Además debe emitirse electrónicamente mediante una plataforma registrada en el **Registro Nacional de Plataformas Digitales Sanitarias (ReNaPDiS)**. Una licencia médica que no cumpla estos requisitos formales puede ser cuestionada por el empleador.
+
+Alertas específicas:
+- Verificar que la licencia aportada por el trabajador cumpla el formato del Decreto 407/2026: emisión electrónica por plataforma ReNaPDiS, con diagnóstico, tratamiento y días. Una licencia en papel o emitida por plataforma no registrada puede carecer de eficacia formal bajo el nuevo régimen.
+- El incumplimiento del empleador en abonar el salario durante la enfermedad habilita al trabajador a considerarse en situación de despido indirecto (art. 246 LCT).
+- Verificar si el plazo de conservación del empleo se agotó y si el empleador notificó correctamente la extinción por esa causa.
 
 ### Suspensiones y sanciones disciplinarias (arts. 218-224 LCT)
 
@@ -437,6 +483,10 @@ Alertas específicas:
 ### Certificados de trabajo (art. 80 LCT)
 
 **Obligación del empleador:** entregar certificado de trabajo y constancia de los aportes y contribuciones al sistema de seguridad social dentro de los 45 días hábiles de extinguida la relación, en formato físico, digital fehaciente, o mediante disponibilidad en ARCA (art. 80 LCT, texto según Ley 27.802, art. 25).
+
+**Procedimiento operativo (RG ARCA 5848/2026, BO 18/5/2026):** el certificado se confecciona a través del sistema "Simplificación Registral" en arca.gob.ar, formulario F.984 "Certificado de Trabajo Artículo 80 - LCT". Formato digital: emisión electrónica validada por Clave Fiscal nivel 2 o superior, sin firma holográfica; el trabajador accede desde el servicio "Trabajo en Blanco" de ARCA sin que el empleador se lo entregue físicamente. Formato físico: impresión por duplicado con firmas holográficas de ambas partes. La RG 5848/2026 deroga la anterior RG 2316. Vigente desde el 18/5/2026.
+
+**Verificación previa obligatoria:** antes de intimar por falta de certificados, verificar en el servicio "Trabajo en Blanco" de arca.gob.ar si el empleador ya los puso a disposición en formato digital. Si están disponibles, la intimación carece de objeto.
 
 **Multa por incumplimiento:** el art. 45 de la Ley 25.345 fue derogado por art. 99 de la Ley 27.742 desde el 9/7/2024. Para extinciones desde esa fecha no existe multa específica por falta de certificados. El incumplimiento del art. 80 LCT habilita una acción judicial de cumplimiento de obligación de hacer con apercibimiento de astreintes (sanciones conminatorias diarias, art. 804 CCyCN) hasta la efectiva entrega. Para extinciones anteriores al 9/7/2024 la multa del art. 45 era aplicable con intimación fehaciente previa.
 
@@ -494,11 +544,21 @@ Alertas específicas:
 
 #### Enfermedades profesionales
 
-- Listadas en el Decreto 658/96 y modificatorias [VERIFICAR VIGENCIA: el listado fue actualizado por decretos posteriores; verificar texto vigente antes de aconsejar sobre cobertura de una enfermedad específica]: la ART las cubre sin discusión si están en el listado
+- Listadas en el Decreto 658/96 (actualizado por Decreto 49/2014, que incorporó nuevas enfermedades y sustituyó la Tabla de Evaluación de Incapacidades; verificar si hay resoluciones SRT o decretos posteriores antes de aconsejar sobre cobertura de una enfermedad específica): la ART las cubre sin discusión si están en el listado
 - No listadas: el trabajador tiene dos vías no excluyentes en primera instancia. (a) Dentro del sistema LRT: solicitar ante la Comisión Médica Central el reconocimiento de la enfermedad como profesional en el caso concreto (doctrina "Silva", CSJN, 2004, y línea jurisprudencial posterior); si la CMC la reconoce, la ART queda obligada a cubrir. (b) Opción excluyente: ejercer la acción civil por daños y perjuicios contra el empleador (art. 4 Ley 26.773), acreditando la relación causal y la culpa del empleador. Alertar siempre: una vez ejercida la opción excluyente por la vía civil, no puede volver al sistema LRT. La vía CMC es el paso previo recomendable antes de aconsejar la acción civil.
 - Enfermedades "in itinere": ocurridas en el trayecto al o desde el trabajo; cubiertas por la LRT
 
 ### Proceso laboral - fuero nacional (Ley 18.345)
+
+**ALERTA - MODIFICACIONES LEY 27.802 A LA LEY 18.345:** la Ley 27.802 introdujo cambios procesales sustanciales. Los principales:
+
+- **Art. 46 Ley 18.345 reformado (caducidad de instancia):** se incorporó el impulso de parte y la caducidad de instancia. El proceso laboral nacional ya no es de oficio. La inactividad procesal por los plazos previstos puede producir la caducidad. Verificar plazos vigentes en el texto del art. 46 reformado antes de asumir que el expediente puede mantenerse paralizado.
+
+- **Art. 89 Ley 27.802 (obligatoriedad de precedentes CSJN y cambio de "superior tribunal de la causa"):** a partir de lo resuelto por la CSJN en "Ferrari c/ Levinas" y del art. 89 de la Ley 27.802, las Cámaras Nacionales del Trabajo ya no son el "superior tribunal de la causa" en los términos del art. 14 de la Ley 48 para la procedencia del recurso extraordinario federal. Consecuencia directa: la vía recursiva ante la CSJN se canaliza directamente, sin el filtro previo de la CNAT como tribunal superior. Dato procesalmente relevante en litigios que lleguen a CSJN. (Sala II CNAT, Expte. 57435/23 "Barozzi", 19/3/2026.)
+
+- **Art. 79 Ley 27.802 (competencia en causas contra el Estado):** cuando sea parte o tercero el Estado Nacional en cualquiera de sus poderes o entes, el fuero competente es el Contencioso Administrativo Federal de CABA, no el laboral. Aplicación inmediata a causas en trámite.
+
+- **Art. 56 Ley 27.802 — pago en cuotas de sentencias — constitucionalidad cuestionada:** la norma habilita al empleador a cancelar créditos de sentencia en cuotas. La jurisprudencia disponible a junio 2026 lo declara mayoritariamente inconstitucional por violar el principio protectorio (art. 14 bis CN), el derecho de propiedad (art. 17 CN) y la igualdad (art. 16 CN). Si el empleador intenta aplicarlo, preparar rechazo fehaciente y planteo de inconstitucionalidad. Ver modelos de telegrama de rechazo.
 
 **SECLO (Ley 24.635):**
 - Obligatorio antes de demandar en el fuero nacional del trabajo
@@ -524,6 +584,7 @@ Alertas específicas:
 Alertas específicas:
 - La demanda laboral debe ser completa desde el inicio: los hechos no alegados en la demanda no pueden incorporarse después sin que el juez lo autorice
 - Ofrecer toda la prueba en la demanda o contestación: en el fuero laboral no hay etapa probatoria abierta posterior
+- Verificar si la causa involucra al Estado Nacional: desde el 6/3/2026 la competencia es del fuero contencioso administrativo federal (art. 79 Ley 27.802)
 
 ### Derecho colectivo
 
@@ -579,8 +640,9 @@ Estrategia de análisis desde el empleador:
 
 ---
 
-*Última actualización: mayo 2026*
-*Normativa base: LCT (Ley 20.744 reformada por DNU 70/2023 + Ley 27.742 + Ley 27.802), Ley 24.013, Ley 25.323, Ley 24.557, Ley 26.773, Ley 27.348, Ley 27.555*
-*Reforma laboral vigente operacionalmente desde Acuerdo Pleno CNAT abril 2026 (levantamiento cautelar CGT)*
+*Última actualización: junio 2026*
+*Normativa base: LCT (Ley 20.744 reformada por DNU 70/2023 + Ley 27.742 + Ley 27.802 + Decreto 407/2026 + Decreto 408/2026 + Decreto 409/2026 + RG ARCA 5848/2026 + Decreto 315/2026), Ley 24.013, Ley 25.323, Ley 24.557, Ley 26.773, Ley 27.348, Ley 27.555 (vigente hasta 31/12/2026)*
+*Ley 27.802 vigente en forma plena desde 23/4/2026 (Sala VIII CNAT, efecto suspensivo apelación Estado). Acción de fondo CGT en trámite ante fuero contencioso administrativo federal sin cautelar activa.*
 *Incorpora audit de gaps post-reforma 2024: Diego Fernandez - Sovra (mayo 2026)*
+*Auditorías normativas junio 2026: estado cautelar Ley 27.802 corregido; art. 23 LCT (excepción Ley 27.802), art. 9 LCT (reforma in dubio), Ley 14.250 arts. 10/16/21 derogados, Ley 27.555 derogación diferida, Decreto 407/2026 (recibo/registración/licencias/renuncia/mutuo acuerdo/jubilación), Decreto 408/2026 (FAL - inicio diferido 1/11/2026), Decreto 409/2026 (moratoria laboral), RG ARCA 5848/2026 (certificado digital art. 80), Decreto 315/2026 (RIFL) incorporados*
 *Autor: Dr. Cristian Aboitiz · [@abogadoaboitiz](https://x.com/abogadoaboitiz)*

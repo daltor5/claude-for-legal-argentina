@@ -38,21 +38,23 @@ No aplica doctrinas de common law de familia (common law marriage, custody stand
 - **Código:** CPCCN (Ley 17.454 y modificatorias)
 - **Juzgados:** Juzgados Nacionales de Primera Instancia en lo Civil, CABA
 - **Alzada:** Cámara Nacional de Apelaciones en lo Civil (CNAC)
-- Competencia originaria en materia de familia para causas radicadas antes de la transferencia progresiva al fuero local
+- **Sistema de gestión:** Lex 100 (Poder Judicial de la Nación)
+- Nota operativa (mayo 2026): pese a los textos normativos de la Ciudad, el CPCCN y el fuero nacional siguen siendo el marco de práctica diaria predominante para causas nuevas de familia en CABA; la transferencia de competencias sigue parcialmente paralizada por amparos y resistencia institucional [VERIFICAR VIGENCIA: controlar estado actualizado de los convenios de transferencia al momento de radicar]
 
 ### Fuero local CABA
 
-- **Código:** CPC CABA (Ley 6716 y modificatorias) - verificar estado de implementación
+- **Código:** CPC CABA (Ley 6716 y modificatorias) [VERIFICAR VIGENCIA: la Ley 6716 y el proceso de transferencia de competencias han sufrido modificaciones y amparos institucionales entre 2024 y 2026; controlar estado actualizado de implementación antes de radicar]
 - **Juzgados:** Juzgados de Primera Instancia en lo Civil, Comercial y de Familia CABA (fuero unificado)
 - **Alzada:** Cámara de Apelaciones en lo Civil, Comercial y de Familia CABA
-- Regla operativa: verificar si la causa tramita ante fuero nacional o local según fecha de inicio y materia
+- **Sistema de gestión:** sistema propio del Poder Judicial de la Ciudad de Buenos Aires (distinto de Lex 100; controlar mesa de entradas virtual y notificaciones electrónicas específicas)
+- Regla operativa: en CABA coexisten juzgados nacionales remanentes (Lex 100) y juzgados locales (sistema Ciudad); verificar ante cuál fuero tramita la causa según fecha de inicio, materia y estado de los convenios de transferencia vigentes al momento de la consulta
 
 ### PBA
 
-- **Código:** CPCCBA (Ley 7425 y modificatorias)
+- **Código:** CPCCBA (Ley 7425 y modificatorias) y Ley de Procedimiento de Familia (Ley 13.634 y mod.) [VERIFICAR VIGENCIA: controlar modificaciones a Ley 13.634 vigentes al momento de la consulta]
 - **Juzgados:** Juzgados de Familia por departamento judicial
 - **Alzada:** Cámara de Apelación en lo Civil y Comercial / Tribunal Colegiado de Familia según departamento
-- Regla operativa: verificar competencia por departamento judicial (domicilio del menor, domicilio conyugal, etc.)
+- Regla operativa: verificar competencia por departamento judicial (domicilio del menor, domicilio conyugal, etc.); controlar etapa previa obligatoria ante el Consejero de Familia (arts. 828 y ss. Ley 13.634), salvo supuestos de violencia familiar que habilitan saltearse dicha instancia
 
 ### Regla general
 
@@ -71,8 +73,22 @@ de cuotas alimentarias varían por fuero y por el tipo de fijación.
 
 Regla operativa: ante cualquier cuota alimentaria:
 ```
-[VERIFICAR MECANISMO DE ACTUALIZACIÓN: confirmar si la cuota tiene actualización
- automática pactada o fijada por el juez, y cuál es el índice aplicable]
+[VERIFICAR VIGENCIA: mecanismo de actualización - confirmar si la cuota tiene
+ actualización automática pactada o fijada por el juez, y cuál es el índice aplicable]
+```
+
+### SMVM e Índice de Crianza (IC-INDEC) como referencias en alimentos
+El Salario Mínimo Vital y Móvil (SMVM) se usa como referencia en algunos fallos
+sobre alimentos. Se actualiza por resolución del Consejo del Salario.
+
+El Índice de Crianza (IC) publicado mensualmente por el INDEC (mide costo de bienes,
+servicios y cuidado por franjas etarias) es, desde 2023/2024, el estándar de referencia
+predominante en los Juzgados de Familia de PBA y en salas de la CNAC para fijar y
+actualizar cuotas, especialmente cuando el alimentante trabaja en la economía informal.
+```
+[VERIFICAR VIGENCIA: valor actualizado del SMVM si se usa como referencia en el cálculo]
+[VERIFICAR VIGENCIA: valor actualizado del IC-INDEC para la franja etaria de los NNyA
+ involucrados - publicación mensual en indec.gob.ar]
 ```
 
 ### Régimen de cuidado personal - criterio jurisprudencial
@@ -80,14 +96,8 @@ La jurisprudencia sobre cuidado personal compartido (art. 651 CCCN) está en
 desarrollo y varía por fuero. Verificar criterio vigente de la cámara antes
 de asesorar sobre la estrategia procesal.
 ```
-[VERIFICAR CRITERIO VIGENTE: cuidado personal compartido en el fuero específico]
-```
-
-### SMVM como referencia en alimentos
-El Salario Mínimo Vital y Móvil (SMVM) se usa como referencia en algunos
-fallos sobre alimentos. Se actualiza por resolución del Consejo del Salario.
-```
-[VERIFICAR SMVM VIGENTE si se usa como referencia en el cálculo]
+[VERIFICAR VIGENCIA: criterio jurisprudencial vigente sobre cuidado personal
+ compartido en el fuero específico al momento de la consulta]
 ```
 
 ---
@@ -96,7 +106,7 @@ fallos sobre alimentos. Se actualiza por resolución del Consejo del Salario.
 
 ### Derecho de fondo
 
-- **CCCN (Ley 26.994), Libro Segundo:** relaciones de familia - fuente principal
+- **CCCN (Ley 26.994 y modificatorias), Libro Segundo:** relaciones de familia - fuente principal [VERIFICAR VIGENCIA: el CCCN ha sido modificado por Dec. 70/2023, Dec. 1017/2024, Dec. 338/2025 y Ley 27.737; las modificaciones al Libro Segundo son menores pero controlar texto actualizado en infoleg.gob.ar]
   - Título I: matrimonio (arts. 401-445)
   - Título II: régimen patrimonial del matrimonio (arts. 446-508)
   - Título III: unión convivencial (arts. 509-528)
@@ -105,13 +115,13 @@ fallos sobre alimentos. Se actualiza por resolución del Consejo del Salario.
   - Título VI: adopción (arts. 594-637)
   - Título VII: responsabilidad parental (arts. 638-704)
   - Título VIII: procesos de familia (arts. 705-723)
-- **Ley 26.485:** protección integral de la mujer - violencia familiar y de género
+- **Ley 26.485:** protección integral de la mujer - violencia familiar y de género [VERIFICAR VIGENCIA: la Ley 26.485 ha recibido modificaciones incorporando violencia en espacio público, violencia digital/telemática y violencia político-pública; consultar texto actualizado]
 - **Ley 24.417:** protección contra la violencia familiar (CABA / fuero nacional)
-- **Ley 12.569 PBA:** violencia familiar (PBA)
+- **Ley 12.569 PBA (t.o. Ley 14.509 y mod.):** violencia familiar (PBA) [VERIFICAR VIGENCIA: el portal normas.gba.gob.ar registra la norma con observaciones de vigencia; en la práctica la SCBA y el MPBA la aplican como vigente en su texto ordenado]
 - **Ley 26.061:** protección integral de los derechos de niñas, niños y adolescentes
 - **Ley 26.743:** identidad de género - impacto en filiación y documentación
 - **Ley 26.862:** reproducción médicamente asistida - impacto en filiación
-- **Ley 27.610:** interrupción voluntaria del embarazo - relevancia en procesos de familia conexos
+- **Ley 27.610:** interrupción voluntaria del embarazo - relevancia en procesos de familia conexos [VERIFICAR VIGENCIA: existieron proyectos de derogación en 2024 que no prosperaron; verificar estado legislativo al momento de la consulta]
 - **Convención sobre los Derechos del Niño (CDN):** jerarquía constitucional (art. 75 inc. 22 CN)
 - **Convención de La Haya sobre sustracción internacional de menores (Ley 23.857)**
 
@@ -149,6 +159,18 @@ Las reglas generales del CLAUDE.md argentino aplican íntegramente. Específicas
 
 **Post-CCCN:** el divorcio es unilateral e incausado (art. 437 CCCN). No hay divorcio contencioso por causales. El sistema no elabora estrategia basada en culpa matrimonial.
 
+Datos mínimos requeridos para redactar un convenio regulador:
+1. Jurisdicción y fuero
+2. Hijos menores o con discapacidad: cantidad y edades
+3. Modalidad de cuidado personal pretendida o acordada
+4. Régimen comunicacional: modalidad y estructura
+5. Cuota alimentaria: monto o parámetro base, moneda, mecanismo de ajuste
+6. Vivienda sede del hogar conyugal: titularidad (propia/alquilada), destino acordado
+7. Bienes gananciales: listar o indicar si se difiere la liquidación
+8. Compensación económica: si se reclama o se renuncia recíprocamente
+
+Si alguno de estos datos no está definido al momento de la consulta, el sistema los solicitará antes de redactar. No redacta convenio con vacíos sobre puntos 1 a 5; los puntos 6 a 8 admiten diferimiento con marcador explícito.
+
 Preguntas de diagnóstico:
 1. ¿Hay acuerdo de partes o es unilateral?
 2. ¿Hay hijos menores o con discapacidad?
@@ -158,9 +180,13 @@ Preguntas de diagnóstico:
 
 Institutos a verificar en cada caso:
 - **Convenio regulador (art. 438 CCCN):** alimentos, cuidado personal, régimen comunicacional, atribución del hogar, distribución de bienes
-- **Compensación económica (arts. 441-443 CCCN):** desequilibrio económico post-divorcio, plazo de prescripción (6 meses desde la sentencia, art. 442 CCCN)
+- **Compensación económica (arts. 441-443 CCCN):** desequilibrio económico post-divorcio, plazo de caducidad de 6 meses desde la sentencia (art. 442 CCCN)
 - **Atribución del uso de la vivienda (art. 443 CCCN)**
 - **Alimentos post-divorcio (art. 434 CCCN):** carácter excepcional post-CCCN
+
+Alerta - reformas desregulatorias (2023-2025):
+- **Moneda en convenios reguladores (art. 765 CCCN y mod.):** las reformas de desregulación económica consolidaron la libertad de pactar en moneda extranjera y limitaron la pesificación judicial forzosa; los convenios reguladores y pactos de convivencia expresados en dólares u otras monedas ya no corren el riesgo anterior de reconversión a pesos por el juez. Verificar texto actualizado del art. 765 al redactar [VERIFICAR VIGENCIA: controlar estado del art. 765 CCCN conforme modificaciones por Dec. 70/2023 y normas posteriores]
+- **Cuota alimentaria en especie / pago de alquiler:** el régimen de locaciones también fue afectado por las reformas; verificar vigencia de las cláusulas de actualización pactadas antes de calcular incumplimientos
 
 ### Régimen patrimonial del matrimonio
 
@@ -188,7 +214,7 @@ Alertas específicas:
 **Pacto de convivencia (arts. 513-514 CCCN):** verificar existencia y contenido
 
 **Cese y efectos (arts. 523-528 CCCN):**
-- Compensación económica: mismos parámetros que divorcio, plazo 6 meses desde el cese
+- Compensación económica: mismos parámetros que divorcio, caducidad de 6 meses desde el cese
 - Atribución del hogar: plazo máximo 2 años
 - Alimentos: solo durante el plazo de atribución del hogar y en casos específicos
 - Distribución de bienes: cada conviviente retira los suyos (no hay masa ganancial salvo pacto)
@@ -235,7 +261,8 @@ Alertas específicas:
 **Proceso de alimentos:**
 - Competencia: juez del domicilio del alimentado (art. 719 CCCN)
 - Prueba del caudal económico del alimentante: declaración jurada de bienes, DNI, recibos de sueldo, AFIP, informes bancarios
-- **UUMSE (Unidad de Medida de Alimentos):** verificar si está implementada en el fuero y su valor actualizado
+- **UUMSE (Unidad de Medida de Alimentos):** [VERIFICAR VIGENCIA: controlar si está implementada en el fuero y su valor actualizado al momento de la consulta]
+- **Índice de Crianza INDEC (IC):** referencia prioritaria en PBA y CNAC para alimentantes en economía informal; verificar valor actualizado en indec.gob.ar para la franja etaria correspondiente
 - Ejecución de cuota alimentaria: astreintes, embargo de haberes, inhibición general de bienes
 
 Alertas específicas:
@@ -274,9 +301,9 @@ Preguntas de diagnóstico:
 **TRHA (arts. 560-564 CCCN):**
 - Consentimiento informado previo
 - Voluntad procreacional como fuente de filiación
-- Gestación por sustitución: no regulada expresamente en el CCCN; jurisprudencia dispar con fallos que la admiten por vía judicial y otros que la rechazan. Alertar siempre:
+- Gestación por sustitución: no regulada expresamente en el CCCN (proyecto de reforma integral congelado); jurisprudencia dispar con fallos que la admiten por vía judicial y otros que la rechazan. En CABA, un amparo colectivo vigente permite la inscripción preventiva en el Registro Civil a favor de los comitentes con voluntad procreacional acreditada; en PBA se requiere indefectiblemente vía judicial previa o posterior. Alertar siempre:
 ```
-[VERIFICAR JURISPRUDENCIA VIGENTE: gestación por sustitución - criterio del fuero específico al momento de la consulta]
+[VERIFICAR VIGENCIA: jurisprudencia sobre gestación por sustitución - criterio del fuero específico al momento de la consulta; la dispar evolución judicial hace obligatoria esta verificación previa]
 ```
 
 **Prueba de ADN:**
@@ -302,7 +329,7 @@ Alertas específicas:
 
 ### Violencia familiar y de género
 
-**Normativa:** Ley 26.485 (nacional) / Ley 24.417 (CABA - fuero nacional) / Ley 12.569 (PBA)
+**Normativa:** Ley 26.485 (nacional) / Ley 24.417 (CABA - fuero nacional) / Ley 12.569 PBA (t.o. Ley 14.509 y mod.)
 
 **Medidas cautelares urgentes (art. 26 Ley 26.485):**
 - Exclusión del hogar del agresor
@@ -311,6 +338,7 @@ Alertas específicas:
 - Prohibición de comunicación
 - Suspensión provisoria de la responsabilidad parental
 - Reserva de identidad
+- **Violencia digital/telemática:** baja de contenido íntimo no consentido en plataformas digitales bajo apercibimiento de astreintes - cautelar de uso creciente en juzgados de familia desde la incorporación de esta modalidad a la Ley 26.485 [VERIFICAR VIGENCIA: confirmar texto actualizado del art. 5 inc. 6 y art. 6 inc. g Ley 26.485 al momento de la consulta]
 
 **Proceso:**
 - Denuncia: ante juez civil, penal o comisaría (según fuero)
@@ -328,6 +356,7 @@ Alertas específicas:
 - Coordinación entre fuero civil/familiar y penal
 - Botón antipánico: disponibilidad según jurisdicción
 - No elaborar estrategia de defensa del agresor que implique revictimización en audiencia
+- **PBA - herramientas operativas:** el sistema de denuncia única digital, los formularios uniformes y el Registro de Violencia Familiar (REVIFA) se rigen por acordadas de la SCBA [VERIFICAR VIGENCIA: controlar acordadas SCBA vigentes sobre formularios de denuncia y REVIFA antes de presentar en PBA]
 
 ### Sustracción internacional de menores
 
@@ -375,11 +404,23 @@ Alertas específicas:
 - En violencia familiar: coordinar siempre con causa penal paralela si existe. Alertar sobre riesgo de contradicción entre estrategias en ambos fueros.
 - Plazos en familia son frecuentemente perentorios (alimentos provisorios, medidas de violencia, restitución internacional). Verificar y alertar antes de analizar el fondo.
 - En procesos con equipo técnico (psicólogos, trabajadores sociales): no asumir el contenido de los informes sin que el abogado los aporte.
-- Compensación económica y alimentos post-divorcio: alertar siempre sobre el plazo de prescripción de 6 meses desde la sentencia de divorcio (art. 442 CCCN).
+- Compensación económica y alimentos post-divorcio: alertar siempre sobre el plazo de caducidad de 6 meses desde la sentencia de divorcio (art. 442 CCCN).
+- En demandas de alimentos: mencionar el IC-INDEC como parámetro de referencia para la pretensión; su omisión expone la cuota a licuación inflacionaria antes de la etapa de ejecución.
 - Todo escrito de familia cierra con "Estado del escrito" estándar más: fuero y competencia, NNyA involucrados (sí/no), medidas cautelares vigentes si las hay, próximo plazo procesal si lo hay.
+
+### Plazos críticos y caducidades - referencia rápida
+
+| Instituto | Plazo | Tipo | Base normativa | Nota operativa |
+|-----------|-------|------|----------------|----------------|
+| Compensación económica - divorcio | 6 meses | Caducidad | Art. 442 CCCN | Corre desde notificación de la sentencia de divorcio. Fatal; el juez la declara de oficio. |
+| Compensación económica - unión convivencial | 6 meses | Caducidad | Art. 525 CCCN (cese: art. 523) | Corre desde el cese de hecho de la convivencia. Mismo régimen que divorcio. |
+| Alimentos atrasados (cuotas devengadas) | 2 años | Prescripción | Art. 2562 inc. c CCCN | Solo para cuotas devengadas no percibidas. El derecho a reclamar alimentos futuros es imprescriptible. |
+| Atribución de vivienda - unión convivencial | Máx. 2 años | Legal improrrogable | Art. 526 CCCN | Corre desde el cese de la cohabitación. No hay prórroga judicial. |
+| Impugnación de filiación por el marido | 1 año | Caducidad | Art. 589 CCCN | Corre desde que conoció o pudo conocer el indicio de no ser el progenitor. |
+| Restitución internacional - integración al nuevo medio | 1 año | Plazo convencional | Art. 12 Convenio La Haya (Ley 23.857) | Pasado el año de traslado ilícito con niño integrado, la restitución puede denegarse aunque el traslado haya sido ilícito. |
 
 ---
 
-*Última actualización: mayo 2026*
-*Normativa base: CCCN Libro Segundo (Ley 26.994), Ley 26.485, Ley 26.061, Ley 26.743, Ley 26.862, CDN (art. 75 inc. 22 CN), Convenio de La Haya 1980 (Ley 23.857)*
+*Última actualización: mayo 2026 - auditoría normativa aplicada*
+*Normativa base: CCCN Libro Segundo (Ley 26.994 y mod.), Ley 26.485, Ley 26.061, Ley 26.743, Ley 26.862, CDN (art. 75 inc. 22 CN), Convenio de La Haya 1980 (Ley 23.857), Ley 12.569 PBA (t.o. Ley 14.509 y mod.)*
 *Autor: Dr. Cristian Aboitiz · [@abogadoaboitiz](https://x.com/abogadoaboitiz)*

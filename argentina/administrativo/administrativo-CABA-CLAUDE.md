@@ -116,7 +116,7 @@ El art. 7 del Decreto N° 1510/97 establece los elementos esenciales del acto ad
 
 - **Norma:** Ley N° 189 CABA (Código Contencioso Administrativo y Tributario - CCAyT) y modificatorias
 - **Texto vigente:** consultar JURISTECA: https://juristeca.jusbaires.gob.ar/compilacion-normativa-juristeca/ley-189/
-- **Subsidiariedad:** el CCAyT es autónomo. Para lo no previsto, remite al Código Procesal Civil y Comercial de la Nación (CPCCN) en forma supletoria según criterio jurisprudencial de la Cámara CCAyT.
+- **Supletoriedad:** el art. 6 Ley N° 189 CCAyT establece expresamente que, en lo no previsto, se aplican las normas del CPCCN que sean compatibles con el carácter contencioso-administrativo del proceso. La remisión tiene base normativa expresa; no es una supletoriedad implícita ni de fuente jurisprudencial. El art. 26 CCAyT regula la forma de los escritos (materia específica), no la cláusula general de remisión.
 
 ### Plazo de caducidad para accionar judicialmente
 
@@ -218,12 +218,14 @@ Verificar si la pretensión encuadra en la materia contencioso administrativa de
 
 - **Ley propia:** CABA no sancionó una ley de responsabilidad del Estado equivalente a la Ley N° 26.944 nacional. En consecuencia, la Ley N° 26.944 no aplica como fuente directa a demandas contra el GCBA; el régimen surge de principios generales del derecho administrativo y jurisprudencia local. Si en algún pronunciamiento concreto el fuero CCAyT la aplicó supletoriamente, aportar el fallo antes de invocarla.
 - **Régimen aplicable:** principios generales del derecho administrativo + jurisprudencia del TSJ CABA y Cámara CCAyT. El CCCN (arts. 1757, 1741) tampoco es fuente directa; su invocación requiere verificar si la sala actuante lo admitió en el supuesto específico.
-- **Requisitos según jurisprudencia CCAyT:** daño cierto + imputabilidad al GCBA + nexo causal + falta de servicio (criterio análogo al federal pero de fuente jurisprudencial, no legal). Aportar fallo de la sala actuante.
+- **Requisitos según jurisprudencia TSJ CABA:** daño cierto + falta de servicio imputable al GCBA + relación de causalidad entre la conducta estatal y el daño. Los tres requisitos deben concurrir; la ausencia de cualquiera de ellos determina el rechazo de la demanda. Fuente: TSJ CABA, Expte. n° 16173/19, "GCBA s/ queja... J., N.B. y otros c/ GCBA s/ responsabilidad médica", sentencia del 21/10/2020, voto mayoritario Weinberg-Otamendi-De Langhe; criterio reiterado en Expte. n° 40649/2015-0, "PJA y otros c/ Cragnolini, Gilda y otros s/ responsabilidad médica", sentencia del 12/03/2025, voto de mayoría.
+- **Causalidad - estándar exigido:** la relación de causalidad debe acreditarse con suficiente certeza; no alcanza la mera posibilidad o probabilidad. En responsabilidad por omisión, corresponde al actor demostrar que, según el curso ordinario y natural de las cosas, la observancia del deber jurídico estatal habría evitado previsiblemente el daño. La carga dinámica de la prueba no puede operar como sustituto de prueba causal suficiente ni fundar la condena en presunciones de apariencia probatoria. Fuente: TSJ CABA, Expte. n° 16173/19, cit.; Expte. n° 40649/2015-0, cit.
+- **Prueba pericial:** la decisión judicial debe ponderar adecuadamente la pericia médica; la prudencia aconseja aceptar sus conclusiones salvo error manifiesto o contradicción por prueba de igual tenor. No es coherente apartarse del dictamen pericial sin motivo fundado. Fuente: TSJ CABA, Expte. n° 16173/19, cit. (con cita de CSJN Fallos 337:790).
 - **Responsabilidad por actividad lícita:** criterio jurisprudencial propio del TSJ CABA; no asumir que excluye el lucro cesante como hace la Ley N° 26.944. Verificar fallo del tribunal.
 - **Prescripción de la acción:** verificar criterio del fuero CCAyT; puede diferir del plazo de 3 años del art. 7 Ley N° 26.944.
 
 ```
-[VERIFICAR RÉGIMEN DE RESPONSABILIDAD GCBA: sin ley propia equivalente a Ley N° 26.944 - aplicar jurisprudencia TSJ CABA y Cámara CCAyT - aportar fallo de la sala actuante - no invocar Ley N° 26.944 ni CCCN sin verificar recepción jurisprudencial en el caso concreto]
+[VERIFICAR RÉGIMEN DE RESPONSABILIDAD GCBA: sin ley propia equivalente a Ley N° 26.944 - aplicar estándar TSJ CABA (Expte. 16173/19 y Expte. 40649/2015-0): daño cierto + falta de servicio + causalidad cierta - no invocar Ley N° 26.944 ni CCCN sin verificar recepción jurisprudencial en el caso concreto - para responsabilidad por actividad lícita y prescripción: aportar fallo de la sala actuante]
 ```
 
 ### Empleo público GCBA

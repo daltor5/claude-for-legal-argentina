@@ -62,7 +62,7 @@ Si elige la Opción A, necesito:
 
 Antes de incluir cualquier cita legal, leer `reglas-normativas.md` y aplicar las reglas en orden.
 
-- ¿La norma está en las Reglas 1 a 10? Aplicar esa regla directamente.
+- ¿La norma está en las Reglas 1 a 13? Aplicar esa regla directamente.
 - ¿La norma no está listada? Aplicar Regla 11: buscar en InfoLeg, luego en Boletín Oficial. Incluir alerta si no se confirma vigencia.
 
 Este paso no es opcional. Si se omite, el telegrama puede citar normas derogadas.
@@ -128,7 +128,7 @@ Al pie del Bloque 2, incluir siempre la advertencia estándar y, cuando correspo
 
 - El acto extintivo o hecho generador es anterior al 6/3/2026: agregar cuál de los tres regímenes del art. 245 aplica y por qué.
 - El caso involucra normas derogadas aplicables al tramo histórico (arts. 8, 9, 10, 15 Ley 24.013; arts. 1 y 2 Ley 25.323; art. 45 Ley 25.345): indicar expresamente que esas normas solo aplican al tramo anterior al 9/7/2024 y que el abogado debe verificar la fecha del acto antes del envío.
-- Alguna norma citada tiene vigencia diferida o fue objeto de medidas cautelares (ej. art. 104 bis LCT): señalarlo con precisión.
+- Alguna norma citada tiene vigencia diferida (ej. Ley 27.555 hasta 31/12/2026; estatutos especiales hasta 1/1/2027) o cuya constitucionalidad está siendo litigada (ej. art. 104 bis LCT - acción de fondo CGT pendiente sin cautelar activa): señalarlo con precisión en el Bloque 2.
 
 Formato de la alerta de transición cuando corresponde:
 
@@ -158,7 +158,7 @@ Atajos que este skill tiende a tomar. Cada uno tiene un rebuttal explícito.
 | "El abogado pidió citar el art. 8 Ley 24.013" | La instrucción del abogado no deroga la norma. Si el acto extintivo es post-9/7/2024, informar la derogación y no citar. El abogado decide; el skill informa. |
 | "La fecha del hecho generador no fue indicada, pero parece reciente" | Asumir régimen sin fecha verificada es el error más frecuente en este skill. Solicitar la fecha antes de redactar; el tramo temporal del art. 245 y los agravantes derogados dependen de ella. |
 | "El modelo del bloque cubre el caso, no hace falta leer reglas-normativas.md" | Los modelos tienen notas de revisión, no verificación normativa automática. El Paso 2 es obligatorio siempre. Los modelos y las reglas son complementarios. |
-| "La retención de tareas siempre protege al trabajador" | El art. 1031 CCCN puede ser interpretado como abandono por el empleador. Evaluar el caso concreto antes de incluirla; no es una fórmula automática. |
+| "La retención de tareas siempre protege al trabajador" | El art. 1031 CCyCN puede ser interpretado como abandono por el empleador. Evaluar el caso concreto antes de incluirla; no es una fórmula automática. |
 | "El despido indirecto es siempre viable como siguiente paso" | Requiere injuria grave y contemporánea. Invocar despido indirecto por causa antigua sin intimación previa reciente es improcedente. |
 | "Art. 216 LCT permite pedir la reinstalación cautelar" | Art. 216 LCT fue derogado por Ley 27.802 con vigencia desde el 6/3/2026. No existe esa vía para hechos posteriores a esa fecha. |
 
@@ -176,6 +176,8 @@ Indicadores de que el borrador está mal antes de entregarlo:
 - Entregar el Bloque 1 sin haber leído el bloque de modelos correspondiente
 - Incluir apercibimiento de multas derogadas aunque el abogado lo haya pedido
 - Usar "AFIP" en lugar de "ARCA" en cualquier referencia administrativa
+- Fundar reclamo de licencia médica en certificado que no sea de plataforma ReNaPDiS o cuyo profesional no esté habilitado en REFEPS, sin señalarlo al abogado
+- Citar el art. 216 LCT para hechos posteriores al 6/3/2026 (derogado por Ley 27.802, art. 207)
 
 ---
 
@@ -202,8 +204,10 @@ Antes de entregar el borrador final:
 - [ ] Bloque 1 en texto plano sin formato enriquecido
 - [ ] Bloque 2 con tabla de referencias completa, advertencia estándar al pie y alerta de transición si el caso lo requiere
 - [ ] CCT indicado o marcador `[VERIFICAR CCT APLICABLE]` presente donde corresponde
+- [ ] Si el caso involucra certificado médico: verificar que sea de plataforma ReNaPDiS y profesional habilitado en REFEPS (Regla 9)
 
 ---
 
-*Ultima actualizacion: mayo 2026*  
-*Normativa base: LCT (Ley 20.744 reformada por DNU 70/2023 + Ley 27.742 + Ley 27.802), Ley 24.013, Ley 25.323, Ley 25.345*
+*Ultima actualizacion: junio 2026*  
+*Normativa base: LCT (Ley 20.744 reformada por DNU 70/2023 + Ley 27.742 + Ley 27.802 + Decreto 407/2026 + Decreto 408/2026 + Decreto 409/2026 + RG ARCA 5848/2026 + Decreto 315/2026), Ley 24.013, Ley 25.323, Ley 25.345*
+*Ley 27.802 vigente en forma plena desde 23/4/2026 (Sala VIII CNAT, efecto suspensivo apelación Estado). Acción de fondo CGT ante fuero contencioso administrativo federal sin cautelar activa (Juzgado CAF N°12, 8/5/2026).*

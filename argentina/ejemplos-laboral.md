@@ -2,7 +2,7 @@
 
 > Archivo complementario de `laboral-CLAUDE.md`.
 > Cargar junto con el perfil laboral en las instrucciones del Project.
-> Los montos son orientativos y tienen fecha. Verificar salarios convencionales, topes del art. 245 y tasas de interes CNAT vigentes antes de aplicar en cada caso.
+> Los montos son orientativos y tienen fecha. Verificar salarios convencionales, topes del art. 245 y régimen de intereses (arts. 54/55 LCT según fecha del juicio) antes de aplicar en cada caso.
 
 ---
 
@@ -12,7 +12,7 @@ Los valores de estas liquidaciones corresponden a una fecha determinada. Los sig
 
 - Salario basico convencional: fijado por acuerdo paritario del CCT aplicable
 - Tope indemnizatorio art. 245: tres veces el promedio del CCT, calculado mensualmente por el INDEC
-- Tasas de interes: no hay criterio unificado vigente desde el Acta CNAT 2788/2024, que dejo sin efecto las Actas 2783/2784 sin establecer nueva tasa. Cada sala aplica su propio criterio (tasa activa BNA, CER u otras). Verificar criterio de la sala sorteada antes de calcular intereses.
+- Tasa de interés para créditos laborales: la Ley 27.802 introdujo un régimen propio. Para juicios iniciados desde el 6/3/2026 aplica el art. 54 LCT (IPC + 3% anual). Para juicios en trámite al 6/3/2026 aplica el art. 55 LCT (tasa pasiva BCRA, con piso del 67% y tope de IPC + 3% anual). El Acta 2764/2022 fue dejada sin efecto por la CSJN y confirmado por la Sala VIII CNAT. Verificar el criterio de la sala sorteada sobre la constitucionalidad del art. 55 antes de calcular: criterio dominante en CNAT a junio 2026 es aplicarlo; minorías lo declaran inconstitucional y aplican IPC + 3% anual (art. 276 LCT).
 - Prestaciones LRT: actualizadas por resolucion SRT
 
 Usar estos ejemplos como estructura de calculo y checklist de rubros, no como referencia de montos actuales.
@@ -21,13 +21,13 @@ Usar estos ejemplos como estructura de calculo y checklist de rubros, no como re
 
 ## REGLA DE TRANSICION TEMPORAL - LEER ANTES DE CUALQUIER LIQUIDACION
 
-La reforma laboral opero en tres tramos. El regimen aplicable a cada caso depende exclusivamente de la fecha del acto extintivo:
+La reforma laboral operó en cuatro tramos. El régimen aplicable a cada caso depende exclusivamente de la fecha del acto extintivo:
 
 | Periodo | Normas aplicables |
 |---|---|
 | Antes del 30/12/2023 | LCT texto original. Ley 24.013 arts. 8, 9, 10, 15 vigentes. Ley 25.323 arts. 1 y 2 vigentes. Base art. 245: mejor remuneracion mensual normal y habitual, sin exclusiones. |
 | 30/12/2023 al 09/07/2024 | DNU 70/2023. Mismos agravantes vigentes. Base art. 245: excluye SAC y bonificaciones semestrales/anuales. |
-| 10/07/2024 al 05/03/2026 | Ley 27.742 (Ley Bases). Arts. 8, 9, 10 Ley 24.013 y arts. 1 y 2 Ley 25.323 DEROGADOS. Multas derogadas. Art. 11 Ley 24.013 subsiste como requisito formal sin efecto economico. Base art. 245: excluye SAC y bonificaciones semestrales/anuales. |
+| 10/07/2024 al 05/03/2026 | Ley 27.742 (Ley Bases). Arts. 8, 9, 10, 11 y 15 Ley 24.013 y arts. 1 y 2 Ley 25.323 DEROGADOS. Arts. 43 a 48 Ley 25.345 (incluyendo multa art. 45 por falta de certificados) DEROGADOS. Multas derogadas. El mecanismo de intimación de registro pasa a los arts. 7, 7 bis, 7 ter y 7 quáter Ley 24.013 vigentes; la denuncia se formula directamente ante ARCA. Base art. 245: excluye SAC y bonificaciones semestrales/anuales. |
 | Desde el 06/03/2026 | Ley 27.802. Mismos agravantes derogados. Base art. 245: excluye ademas vacaciones no gozadas y horas extras. Art. 66 LCT reformado: eliminada la accion sumarisima de restablecimiento. Art. 80 LCT reformado: obligacion de entrega subsiste. |
 
 Identificar la fecha del acto extintivo antes de calcular cualquier rubro. No asumir regimen sin verificar fecha.
@@ -96,7 +96,7 @@ Los arts. 8, 9 y 10 de la Ley 24.013 y los arts. 1 y 2 de la Ley 25.323 fueron D
 
 **Paso 2 - Agravantes Ley 24.013 [SOLO PARA ACTOS EXTINTIVOS ANTERIORES AL 09/07/2024]**
 
-Condicion: el trabajador intimo fehacientemente antes del despido (art. 11 Ley 24.013). Sin esa intimacion previa, estos agravantes no proceden. Los efectos economicos (multas) de los arts. 8, 9 y 10 fueron derogados por Ley 27.742 para actos extintivos desde el 09/07/2024. El art. 11 subsiste como requisito formal para otros reclamos pero sin el efecto multiplicador de las multas.
+Condicion: el trabajador intimo fehacientemente antes del despido. Sin esa intimacion previa, estos agravantes no proceden. Para actos extintivos anteriores al 09/07/2024 el fundamento de la intimacion era el art. 11 de la Ley 24.013; ese articulo fue derogado por el art. 99 de la Ley 27.742 desde el 09/07/2024. Los efectos economicos (multas) de los arts. 8, 9 y 10 tambien fueron derogados para actos extintivos desde el 09/07/2024. El mecanismo vigente de denuncia registral es la denuncia directa ante ARCA conforme el art. 7 ter de la Ley 24.013 (texto segun Ley 27.802, art. 98).
 
 | Rubro | Norma | Calculo | Resultado |
 |---|---|---|---|
@@ -129,13 +129,17 @@ Aplica porque el empleador no pago en termino y el trabajador inicio acciones. D
 | Preaviso (hasta 5 anos: 1 mes) | $600.000 x 1 | $600.000 |
 | SAC sobre preaviso | $600.000 / 12 | $50.000 |
 
+Nota sobre la base del preaviso: el art. 232 LCT no fue modificado por la Ley 27.802 (última reforma: Ley 25.877/2004). La indemnización sustitutiva se calcula sobre "la remuneración que correspondería al trabajador", sin la restricción del art. 245. Por lo tanto, las horas extras habituales sí integran la base del preaviso aunque estén excluidas de la base del art. 245 desde el 6/3/2026. En este ejemplo el trabajador no registra horas extras en los datos; si las tuviera, sumarlas a la base del art. 232. Verificado en Infoleg (texto del art. 232 al 6/3/2026).
+
 **Paso 6 - Art. 80 LCT (si no se entregaron certificados)**
 
 Condicion: el trabajador debe haber intimado fehacientemente al empleador. Sin intimacion, no procede.
 
+ALERTA TEMPORAL: la multa equivalente a tres salarios provenia del art. 45 de la Ley 25.345, DEROGADO por art. 99 Ley 27.742 desde el 09/07/2024. Para actos extintivos desde esa fecha no existe esa multa; subsiste la obligacion de entrega con astreintes (art. 804 CCyCN). Este paso solo aplica en los terminos de la tabla (monto fijo) para actos extintivos ANTERIORES al 09/07/2024.
+
 | Rubro | Calculo | Resultado |
 |---|---|---|
-| Multa art. 80 | 3 mejores salarios | $600.000 x 3 = $1.800.000 |
+| Multa art. 45 Ley 25.345 [SOLO PARA ACTOS ANTERIORES AL 09/07/2024] | 3 mejores salarios | $600.000 x 3 = $1.800.000 |
 
 **Total orientativo para actos extintivos ANTERIORES al 09/07/2024 (sin rubros a calcular):**
 $1.800.000 (art. 245) + $1.800.000 (art. 1 Ley 25.323) + $600.000 (preaviso) + $50.000 (SAC preaviso) + agravantes Ley 24.013 + art. 2 Ley 25.323 + art. 80 si corresponde.
@@ -148,6 +152,68 @@ $1.800.000 (art. 245) + $600.000 (preaviso) + $50.000 (SAC preaviso) + art. 80 s
 - El art. 1 Ley 25.323 duplica la indemnizacion del art. 245 pero no duplica el preaviso ni el SAC.
 - El art. 2 Ley 25.323 se aplica sobre la suma de arts. 232 + 233 + 245 (no sobre los agravantes de la Ley 24.013).
 - La acumulacion de art. 1 y art. 2 de la Ley 25.323 es posible si se cumplen los presupuestos de ambos por separado. Solo para actos extintivos anteriores al 09/07/2024.
+
+---
+
+## Ejemplo 2b - Despido, trabajador no registrado, régimen vigente (desde 09/07/2024)
+
+**Contexto normativo:** los agravantes de la Ley 24.013 (arts. 8-10) y la Ley 25.323 están derogados. La estrategia del trabajador no registrado cambió: el foco pasa de las multas al reclamo de la relación laboral en sí y al cálculo indemnizatorio sobre la remuneración real. La complejidad se desplaza hacia la prueba de la dependencia cuando el empleador invoca el art. 23 LCT reformado.
+
+**Datos del caso:**
+- Trabajador: diseñador gráfico que prestó servicios para una agencia durante 2 años
+- El empleador lo contrató como monotributista; emitía facturas mensuales por los servicios
+- Remuneración real mensual: $1.500.000
+- Sin CCT aplicable (actividad no convencionada)
+- El empleador prescindió de sus servicios el 15 de marzo de 2026 sin pagar indemnización
+- El trabajador concurría a la oficina de lunes a viernes en horario fijo, usaba equipos de la empresa y recibía órdenes directas del director de arte
+
+**Problema central — art. 23 LCT (texto según Ley 27.802, art. 13):**
+La reforma incorporó una excepción expresa a la presunción de laboralidad: no opera cuando median facturación y pago bancarizado en contrataciones de obra o servicios profesionales. El empleador invocará esa excepción. La estrategia del trabajador es demostrar que la excepción no aplica porque hay subordinación efectiva: horario fijo, lugar de trabajo impuesto, uso de equipos del empleador, dependencia técnica y jerárquica. La factura no destruye la relación laboral si hay dependencia real — pero la carga probatoria se invierte y pesa más sobre el trabajador.
+
+**Paso 1 — Acreditar la relación laboral**
+
+Elementos probatorios a reunir antes de intimar:
+- Registros de ingreso/egreso a la oficina
+- Mails con instrucciones del empleador sobre tareas y horarios
+- Mensajes de WhatsApp o Slack con órdenes directas
+- Testigos que puedan declarar sobre la presencia diaria y la subordinación
+- Recibos de pago / transferencias del empleador (aunque sean "honorarios")
+- Nómina de personal donde figure o haya figurado
+
+Sin este material, la intimación de registro tiene base débil. Evaluar con el trabajador antes de enviar el telegrama.
+
+**Paso 2 — Intimación de registro (arts. 7 y 7 bis Ley 24.013, texto según Ley 27.742)**
+
+Intimar al empleador a registrar la relación conforme la realidad. Denunciar: fecha de ingreso real, remuneración real, categoría, jornada, lugar de trabajo. Plazo: 30 días. El fundamento es el art. 7 (texto según Ley 27.742, art. 82) y el art. 7 bis (incorporado por Ley 27.742, art. 83). Sin las multas de los arts. 8-10, el efecto económico de la intimación es la habilitación del despido indirecto si el empleador no regulariza.
+
+Simultáneamente: denuncia directa ante ARCA conforme el art. 7 ter Ley 24.013 (texto según Ley 27.802, art. 98).
+
+**Paso 3 — Despido indirecto si no regulariza**
+
+Si el empleador no registra en el plazo intimado, el trabajador puede considerarse despedido sin causa (art. 246 LCT).
+
+**Paso 4 — Liquidación (régimen desde 06/03/2026)**
+
+| Rubro | Base | Cálculo | Resultado |
+|---|---|---|---|
+| Indemnización art. 245 | $1.500.000 (sin tope CCT — actividad no convencionada; verificar si aplica el tope del salario promedio general) | $1.500.000 x 2 años | $3.000.000 |
+| Preaviso art. 231 (hasta 5 años: 1 mes) | $1.500.000 (art. 232 LCT no modificado — incluye horas extras habituales si las hay) | $1.500.000 x 1 | $1.500.000 |
+| SAC sobre preaviso | $1.500.000 | $1.500.000 / 12 | $125.000 |
+| Integración mes de despido (día 15) | $1.500.000 | $1.500.000 / 30 x 16 días | $800.000 |
+| SAC sobre integración | $800.000 | $800.000 / 12 | $66.667 |
+| Vacaciones proporcionales | [VERIFICAR días según antigüedad] | - | [CALCULAR] |
+| SAC proporcional al semestre | [VERIFICAR período] | - | [CALCULAR] |
+
+**Total orientativo (rubros con valor fijo):**
+$3.000.000 (art. 245) + $1.500.000 (preaviso) + $125.000 (SAC preaviso) + $800.000 (integración) + $66.667 (SAC integración) = **$5.491.667 + rubros a verificar**
+
+**Notas críticas:**
+- Base del art. 245: excluye SAC, horas extras y vacaciones no gozadas (Ley 27.802, art. 51). La remuneración de $1.500.000 debe estar depurada de esos conceptos si los incluía.
+- Tope sin CCT: verificar si aplica el promedio del convenio más cercano por analogía o el tope general. Sin CCT específico, el tope es discutible. `[VERIFICAR CCT APLICABLE: actividad no convencionada - evaluar tope análogo o ausencia de tope]`
+- Sin agravantes derogados: no hay multas de Ley 24.013 ni Ley 25.323. El valor del caso depende de ganar la discusión sobre la existencia de la relación laboral y del monto de la remuneración real.
+- Art. 80 LCT: intimar entrega de certificados dentro de los 45 días hábiles de la extinción. Verificar vía digital en "Trabajo en Blanco" de ARCA (RG ARCA 5848/2026) antes de intimar. Sin multa del art. 45 Ley 25.345 (derogado); en caso de incumplimiento: astreintes vía art. 804 CCyCN.
+- Intereses: juicio iniciado desde el 6/3/2026 → art. 54 LCT (IPC + 3% anual). `[VERIFICAR TASA VIGENTE: art. 54 — confirmar criterio de la sala sorteada]`
+- Prescripción: 2 años desde el acto extintivo (art. 256 LCT). En este caso: vence el 15 de marzo de 2028. SECLO obligatorio antes de demandar.
 
 ---
 
@@ -180,7 +246,7 @@ $1.800.000 (art. 245) + $600.000 (preaviso) + $50.000 (SAC preaviso) + art. 80 s
 **Total orientativo (rubros con valor fijo):**
 $8.800.000 (art. 245) + $2.400.000 (preaviso) + $200.000 (SAC preaviso) + $2.400.000 (salarios adeudados) = $13.800.000
 
-**Nota sobre el preaviso:** el tope del art. 245 aplica exclusivamente a la indemnizacion por antiguedad. El preaviso (art. 232 LCT) y el SAC sobre preaviso se calculan siempre sobre la mejor remuneracion mensual normal y habitual ($1.200.000 en este caso), sin tope.
+**Nota sobre el preaviso:** el tope del art. 245 aplica exclusivamente a la indemnizacion por antiguedad. El preaviso (art. 232 LCT) y el SAC sobre preaviso se calculan siempre sobre la mejor remuneracion mensual normal y habitual ($1.200.000 en este caso), sin tope. Si el trabajador tuviera horas extras habituales, incluirlas en la base del art. 232 (el art. 232 no fue modificado por la Ley 27.802 — ultima reforma: Ley 25.877/2004).
 
 Rubros aun a calcular para el total completo: integracion del mes de despido + SAC sobre integracion + SAC proporcional al semestre + vacaciones proporcionales. No incluirlos en el total sin calcular los valores.
 
@@ -303,7 +369,7 @@ Usar como control antes de cerrar cualquier liquidacion. Marcar cada rubro como:
 - [ ] Art. 10 Ley 24.013 (remuneracion registrada menor a la real) - DEROGADO para actos extintivos desde 09/07/2024. Para actos anteriores: verificar intimacion previa.
 - [ ] Art. 1 Ley 25.323 (duplicacion por falta de registracion) - DEROGADO para actos extintivos desde 09/07/2024.
 - [ ] Art. 2 Ley 25.323 (50% por falta de pago en termino) - DEROGADO para actos extintivos desde 09/07/2024. Para actos anteriores: verificar intimacion y acciones iniciadas.
-- [ ] Art. 80 LCT / Ley 25.345 (multa por falta de certificados) - VIGENTE. Verificar intimacion fehaciente previa.
+- [ ] Art. 80 LCT (obligacion de entrega de certificados) - VIGENTE como obligacion. Verificar intimacion fehaciente previa. ATENCION - multa: los arts. 43-48 de la Ley 25.345 (incluyendo la multa equivalente a tres salarios del art. 45) fueron DEROGADOS por art. 99 Ley 27.742 desde el 09/07/2024. Para extinciones desde esa fecha, el incumplimiento del art. 80 LCT habilita una accion de cumplimiento con astreintes (art. 804 CCyCN) pero no la multa especifica del art. 45. Para extinciones anteriores al 09/07/2024 con intimacion fehaciente previa: la multa si era aplicable. Verificar la via digital del certificado (RG ARCA 5848/2026) antes de intimar.
 - [ ] Art. 182 LCT (un ano de remuneraciones adicional) - VIGENTE. Verificar: despido dentro del periodo de estabilidad por embarazo art. 178; empleador conocia el estado de gravidez (notificacion fehaciente anterior al despido).
 
 **Verificaciones obligatorias antes de cerrar:**
@@ -311,13 +377,14 @@ Usar como control antes de cerrar cualquier liquidacion. Marcar cada rubro como:
 - [ ] CCT aplicable identificado
 - [ ] Tope art. 245 verificado para ese CCT al momento del despido
 - [ ] Base art. 245 depurada segun exclusiones del tramo temporal
-- [ ] Tasa de interes: sin acta unificada vigente (Acta CNAT 2788/2024) - verificar criterio de la sala sorteada
+- [ ] Tasa de interes: identificar si el juicio es anterior (art. 55 LCT: tasa pasiva BCRA con piso/tope) o posterior (art. 54 LCT: IPC + 3% anual) al 06/03/2026. Verificar criterio de la sala sorteada sobre constitucionalidad del art. 55 si el juicio estaba en tramite al 06/03/2026. Acta 2764/2022: dejada sin efecto por la CSJN - no citar.
 - [ ] SECLO cumplido (fuero nacional) o equivalente provincial
 - [ ] Plazo de prescripcion verificado por cada rubro
 
 ---
 
-*Ultima actualizacion: mayo 2026*
-*Los montos de estos ejemplos son orientativos. Verificar salarios convencionales, topes del art. 245, prestaciones LRT y tasas de interes CNAT antes de usar en cada caso concreto.*
-*Normativa base: LCT (Ley 20.744 reformada por DNU 70/2023 + Ley 27.742 + Ley 27.802), Ley 24.013, Ley 25.323, Ley 25.345, Ley 26.773, Ley 27.348*
+*Ultima actualizacion: junio 2026*
+*Los montos de estos ejemplos son orientativos. Verificar salarios convencionales, topes del art. 245, prestaciones LRT y tasas de interes antes de usar en cada caso concreto.*
+*Normativa base: LCT (Ley 20.744 reformada por DNU 70/2023 + Ley 27.742 + Ley 27.802 + Decreto 407/2026 + Decreto 408/2026 + RG ARCA 5848/2026), Ley 24.013, Ley 25.323, Ley 25.345, Ley 26.773, Ley 27.348*
+*Regimen de intereses: arts. 54 y 55 LCT (texto Ley 27.802). Acta 2764/2022 dejada sin efecto.*
 *Autor: Dr. Cristian Aboitiz - @abogadoaboitiz (https://x.com/abogadoaboitiz)*

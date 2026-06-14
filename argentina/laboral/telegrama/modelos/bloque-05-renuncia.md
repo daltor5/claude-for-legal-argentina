@@ -5,12 +5,13 @@ ________________________________________
 
 NOTA GENERAL DE BLOQUE
 Art. 240 LCT (texto según Ley 27.802): la renuncia puede formalizarse por despacho telegrafico en formato fisico o digital, con validacion de identidad, o ante la autoridad administrativa del trabajo. La gratuidad del despacho se mantiene. Verificar disponibilidad del sistema de telegrama digital en el correo o plataforma habilitada antes del envio.
+ALERTA - Renuncia ante autoridad administrativa: el Decreto 407/2026 (Anexo I art. 7, BO 1/6/2026) encomienda a la Secretaría de Trabajo dictar el procedimiento específico para formalizar la renuncia ante la autoridad administrativa con registro y notificación fehaciente al empleador. A junio 2026 ese procedimiento secundario aún no fue dictado. No aconsejar esta vía como operativa hasta que sea instrumentada. La vía del telegrama fisico o digital sigue siendo la forma segura y disponible.
 ________________________________________
 
 Renuncia con preaviso (ACTUALIZADO)
 Lugar y fecha. Notifico a Ud. que renuncio a mi empleo a partir del [fecha], con el preaviso suficiente conforme al art. 231 de la LCT. Queda Ud. debidamente notificado.
 
-Revisar antes de enviar: la Ley 27.802 (art. 40) reformo los plazos de preaviso a cargo del trabajador: 15 días cuando la antigüedad no supera 5 años; 1 mes cuando la supera. Calcular la fecha de efectivizacion de la renuncia según la antigüedad antes de consignar la fecha en el telegrama.
+Revisar antes de enviar: la Ley 27.802 (art. 48) reformó el art. 231 inc. b LCT. Para el trabajador: 15 días cuando la antigüedad no supera 5 años; 1 mes cuando la supera. Calcular la fecha de efectivizacion de la renuncia según la antigüedad antes de consignar la fecha en el telegrama.
 
 ________________________________________
 
@@ -31,7 +32,7 @@ Marcadores pendientes:
 
 Normas con vigencia confirmada:
 - LCT art. 240: reformado por Ley 27.802. Admite renuncia por telegrama fisico o digital con validacion de identidad.
-- LCT art. 231: reformado por Ley 27.802, art. 40. Plazos de preaviso del trabajador: 15 días hasta 5 años de antigüedad; 1 mes si la supera.
+- LCT art. 231 inc. b: sustituido por Ley 27.802, art. 48. Plazos del trabajador: 15 días hasta 5 años; 1 mes si la supera.
 
 Decisiones estructurales por defecto:
 - Incorporada nota sobre plazos de preaviso reformados en el modelo de renuncia con preaviso.

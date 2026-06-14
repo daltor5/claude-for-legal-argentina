@@ -4,13 +4,13 @@ Actualizado conforme Ley 27.742 (Bases, julio 2024) y Ley 27.802 (Modernización
 ________________________________________
 
 NOTA GENERAL DE BLOQUE
-Las multas de los arts. 8, 9, 10 y 15 de la Ley 24.013 fueron derogadas por la Ley 27.742. No citar esos artículos en ninguna comunicación con fecha posterior al 8 de julio de 2024.
+Las multas de los arts. 8, 9, 10 y 15 de la Ley 24.013 fueron derogadas por la Ley 27.742. No citar esos artículos en ninguna comunicación con fecha desde el 9 de julio de 2024.
 El art. 23 LCT (texto según Ley 27.802, art. 13) excluye la presunción de relación laboral cuando median facturación o pago bancarizado. Verificar el vínculo antes de fundar cualquier intimación de registro en esa presunción.
 El art. 52 LCT (texto según Ley 27.802, art. 20) unifica el registro en ARCA. Ya no se menciona libro especial del art. 52 anterior.
 ________________________________________
 
 Registro de la relación laboral - arts. 7 y 7 bis, Ley 24.013 (ACTUALIZADO)
-Lugar y fecha. Ante infructuosos intentos tendientes a que se registre la relación laboral que nos une, me dirijo a usted con el fin de intimarlo fehacientemente en los términos de los arts. 7 y 7 bis de la Ley 24.013, a que en el plazo de 30 días proceda a registrar la relación conforme la realidad de la misma. A tales fines denuncio: fecha de ingreso [fecha], empresa [nombre], tareas [tareas], jornada laboral [jornada], categoría laboral [categoría] conforme CCT [numero], remuneración percibida $ [monto], lugar de trabajo [direccion]. Lo intimo a que en el plazo perentorio e improrrogable de 48 horas manifieste en forma clara y precisa si procedera a registrar la relación laboral conforme intimación cursada, entregando recibos de sueldo e informando seguros de ley, bajo apercibimiento de considerarme injuriado y despedido por su exclusiva culpa y responsabilidad. Hare retención de tareas hasta que de cumplimiento (arts. 1031 y 1032 CCCN). Queda Ud. debidamente notificado.
+Lugar y fecha. Ante infructuosos intentos tendientes a que se registre la relación laboral que nos une, me dirijo a usted con el fin de intimarlo fehacientemente en los términos de los arts. 7 y 7 bis de la Ley 24.013, a que en el plazo de 30 días proceda a registrar la relación conforme la realidad de la misma. A tales fines denuncio: fecha de ingreso [fecha], empresa [nombre], tareas [tareas], jornada laboral [jornada], categoría laboral [categoría] conforme CCT [numero], remuneración percibida $ [monto], lugar de trabajo [direccion]. Lo intimo a que en el plazo perentorio e improrrogable de 48 horas manifieste en forma clara y precisa si procedera a registrar la relación laboral conforme intimación cursada, entregando recibos de sueldo e informando seguros de ley, bajo apercibimiento de considerarme injuriado y despedido por su exclusiva culpa y responsabilidad. Hare retención de tareas hasta que de cumplimiento (arts. 1031 y 1032 CCyCN). Queda Ud. debidamente notificado.
 
 Revisar antes de enviar: (1) El art. 11 de la Ley 24.013 fue derogado por art. 99 de la Ley 27.742 desde el 9/7/2024. El fundamento vigente para la intimación de registro es el art. 7 (texto según Ley 27.742, art. 82) y el art. 7 bis (incorporado por art. 83 de la Ley 27.742). (2) La Ley 27.802 unifica el registro en ARCA (art. 52 LCT reformado); ya no corresponde mencionar "libro especial" ni "Libro del art. 52". (3) Si el trabajador factura o cobra de forma bancarizada, la presunción del art. 23 LCT no opera (art. 13, Ley 27.802). Verificar la naturaleza del vinculo antes de fundar el reclamo en esa presunción. (4) Los arts. 8, 9, 10 y 15 de la Ley 24.013 (agravantes indemnizatorios) y el art. 11 (mecanismo de intimación y copia al organismo recaudador) fueron derogados por la Ley 27.742: no mencionar apercibimiento de esas multas ni citar el art. 11.
 
@@ -63,7 +63,7 @@ Normas con vigencia confirmada:
 - LCT art. 23: reformado por Ley 27.802, art. 13. Presuncion excluida con facturacion o pago bancarizado.
 - LCT art. 52: reformado por Ley 27.802, art. 20. Registro unificado en ARCA.
 - LCT art. 31: reformado por Ley 27.802, art. 19. Solidaridad entre empresas vinculadas limitada a casos de fraude.
-- Arts. 1031 y 1032 CCCN: vigentes.
+- Arts. 1031 y 1032 CCyCN: vigentes.
 - Arts. 54, 59, 274 Ley 19.550; art. 144 CCyCN: vigentes.
 
 Decisiones estructurales por defecto:

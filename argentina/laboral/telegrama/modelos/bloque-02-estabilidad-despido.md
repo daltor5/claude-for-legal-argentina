@@ -9,7 +9,7 @@ Art. 245 LCT reformado - TRES REGIMENES según fecha del acto extintivo:
 - Actos extintivos 30-dic-2023 a 5-mar-2026: base excluye SAC y bonificaciones de pago semestral o anual (DNU 70/2023). Tope y multiplicador sin cambio.
 - Actos extintivos desde 6-mar-2026: base excluye además vacaciones no gozadas y horas extras; tope es 3 veces el salario mensual promedio del CCT aplicable (Ley 27.802, art. 51). El criterio es la fecha del acto extintivo, no la fecha de inicio del contrato.
 Verificar la fecha del acto extintivo antes de calcular cualquier base o tope del art. 245.
-Arts. 1 y 2 de la Ley 25.323: DEROGADOS por Ley 27.742. No citar el apercibimiento de multa del art. 2 de la Ley 25.323 en ningun telegrama posterior al 8 de julio de 2024.
+Arts. 1 y 2 de la Ley 25.323: DEROGADOS por Ley 27.742. No citar el apercibimiento de multa del art. 2 de la Ley 25.323 en ningun telegrama desde el 9 de julio de 2024.
 Art. 216 LCT: DEROGADO por Ley 27.802, art. 207, con vigencia desde el 6 de marzo de 2026. No citar.
 Art. 66 LCT (texto según Ley 27.802, art. 23): ya no existe acción sumarísima de restablecimiento. La única via ante el ius variandi abusivo es la consideracion como despedido sin causa, previa intimación desatendida.
 ________________________________________
@@ -24,7 +24,7 @@ ________________________________________
 Intimando al pago de la indemnización - art. 212 LCT (incapacidad) (ACTUALIZADO)
 Lugar y fecha. Atento al alta médica con incapacidad absoluta notificada en fecha [fecha], y habiendose extinguido el vinculo laboral por dicha causa, lo intimo a que en el plazo de 48 horas proceda a abonar la indemnización prevista en el art. 212, parrafo cuarto, de la LCT. Queda Ud. debidamente notificado.
 
-Revisar antes de enviar: el art. 212 LCT subsiste, pero la Ley 27.802 (art. 28) excluye la aplicación del art. 212 LCT en el período de prueba. Verificar si la extinción es anterior o posterior al 6 de marzo de 2026 para determinar la base de calculo del art. 245 al que remite el art. 212.
+Revisar antes de enviar: el art. 212 LCT subsiste. Durante el período de prueba queda excluida la aplicación del cuarto párrafo del art. 212 LCT, conforme el texto del art. 92 bis LCT (texto según Ley 27.742, art. 91). Verificar si la extinción es anterior o posterior al 6 de marzo de 2026 para determinar la base de calculo del art. 245 al que remite el art. 212.
 
 ________________________________________
 
@@ -41,7 +41,7 @@ ________________________________________
 Intimando al pago de la indemnización - art. 231 LCT (falta de preaviso) (ACTUALIZADO)
 Lugar y fecha. Atento al despido dispuesto mediante comunicación de fecha [fecha] sin haberse otorgado el preaviso legal correspondiente, lo intimo a que en el plazo de 48 horas proceda a abonar la indemnización sustitutiva de preaviso con más la integración del mes de despido y los haberes proporcionales adeudados (arts. 231 y 232 LCT). Queda Ud. debidamente notificado.
 
-Revisar antes de enviar: la Ley 27.802 (art. 40) reformo el art. 231 LCT y reordeno el preaviso a cargo del empleador: 1 mes cuando la antigüedad no exceda 5 años; 2 meses cuando la supere. Verificar la antigüedad antes de calcular la indemnización.
+Revisar antes de enviar: la Ley 27.802 (art. 48) sustituyó el art. 231 inc. b LCT. Para el empleador: 1 mes cuando la antigüedad no exceda 5 años; 2 meses cuando la supere. Verificar la antigüedad antes de calcular la indemnización.
 
 ________________________________________
 
@@ -53,7 +53,7 @@ ________________________________________
 Intimando al pago de indemnizaciones por despido injustificado (ACTUALIZADO - CRITICO)
 Lugar y fecha. Ante el despido incausado dispuesto por Ud. y habiendo vencido el plazo legal sin que se hayan cancelado los rubros indemnizatorios, lo intimo a que en el plazo de 48 horas proceda a abonar la indemnización por antigüedad (art. 245 LCT), sustitutiva de preaviso, integración del mes de despido, vacaciones no gozadas y aguinaldo proporcional. Queda Ud. debidamente notificado.
 
-Revisar antes de enviar: (1) El art. 2 de la Ley 25.323 fue derogado por la Ley 27.742: eliminar todo apercibimiento de recargo por esa norma. (2) Base de calculo del art. 245 según fecha del acto extintivo: pre-30-dic-2023: incluye SAC; 30-dic-2023 a 5-mar-2026: excluye SAC y bonificaciones semestrales/anuales (DNU 70/2023); desde 6-mar-2026: excluye además vacaciones no gozadas y horas extras, con nuevo tope de 3 veces el promedio del CCT (Ley 27.802, art. 51). Verificar la fecha antes de calcular. (3) Si el empleador tiene FAL constituido, puede afrontar el pago con esos fondos: eso no altera el monto adeudado ni la intimación, pero puede incidir en la estrategia judicial si no paga.
+Revisar antes de enviar: (1) El art. 2 de la Ley 25.323 fue derogado por la Ley 27.742: eliminar todo apercibimiento de recargo por esa norma. (2) Base de calculo del art. 245 según fecha del acto extintivo: pre-30-dic-2023: incluye SAC; 30-dic-2023 a 5-mar-2026: excluye SAC y bonificaciones semestrales/anuales (DNU 70/2023); desde 6-mar-2026: excluye además vacaciones no gozadas y horas extras, con nuevo tope de 3 veces el promedio del CCT (Ley 27.802, art. 51). Verificar la fecha antes de calcular. (3) El FAL fue reglamentado por Decreto 408/2026 (BO 1/6/2026) pero no está operativo hasta el 1/11/2026: hasta esa fecha no hay contribuciones ni fondos constituidos. El deudor es el empleador en todos los casos; la intimación no cambia por el FAL.
 
 ________________________________________
 
@@ -171,12 +171,12 @@ Marcadores pendientes:
 
 Normas con vigencia confirmada:
 - LCT art. 18: reformado por Ley 27.802, art. 9. Si entre el cese y el reingreso transcurrieron más de 2 años, la antigüedad anterior no se computa. Verificar en casos de reingreso antes de calcular cualquier indemnización.
-- LCT art. 20: reformado por Ley 27.802, art. 10. La pluspeticion inexcusable genera costas solidarias entre el trabajador y el letrado actuante. Calcular los rubros con precision antes de intimar montos.
+- LCT art. 20: reformado por Ley 27.802, art. 10. La pluspetición inexcusable se configura de manera objetiva ante sobreestimación de los créditos reclamados, sin requerir dolo ni mala fe del letrado, y genera costas solidarias entre la parte y el profesional actuante. Calcular los rubros con precisión antes de intimar montos.
 - LCT art. 245: reformado por Ley 27.802, art. 51. Nueva base y nuevo tope vigentes desde el 6/3/2026.
 - LCT art. 252: VIGENTE. La indemnización equivale al 25% de la del art. 245.
 - LCT art. 80: reformado por Ley 27.802, art. 25. Tres vias de cumplimiento.
-- LCT art. 231: reformado por Ley 27.802, art. 40. Reordena plazos de preaviso.
-- LCT art. 212: reformado por Ley 27.802, art. 28. Excluye aplicación en período de prueba.
+- LCT art. 231 inc. b: sustituido por Ley 27.802, art. 48. Plazos del empleador: 1 mes hasta 5 años; 2 meses si supera. Sin preaviso en período de prueba.
+- LCT art. 212: el cuarto párrafo queda excluido durante el período de prueba, conforme el texto del art. 92 bis LCT (texto según Ley 27.742, art. 91).
 - LCT art. 216: DEROGADO por Ley 27.802, art. 207, vigente desde el 6/3/2026.
 - Ley 24.013, arts. 8, 9, 10 y 15: DEROGADOS por Ley 27.742.
 - Ley 25.323, arts. 1 y 2: DEROGADOS por Ley 27.742.
@@ -189,6 +189,6 @@ Decisiones estructurales por defecto:
 - Se conservo la referencia al FAL solo en la nota de revision, no en el cuerpo del telegrama: el deudor es el empleador independientemente de si tiene o no FAL constituido.
 - Los modelos de despido por falta de registro eliminan el apercibimiento de multas del art. 8 y concordantes de la Ley 24.013.
 - Art. 18 LCT (texto según Ley 27.802, art. 9): si entre el cese y el reingreso transcurrieron más de 2 años, la antigüedad anterior no se computa. Verificar en casos de reingreso antes de calcular cualquier liquidación que involucre antigüedad acumulada.
-- Art. 20 LCT (texto según Ley 27.802, art. 10): la pluspetición inexcusable genera costas solidarias entre el trabajador y el letrado actuante. Calcular los rubros con precisión antes de consignar montos en cualquier intimación de pago de indemnizaciones.
+- Art. 20 LCT (texto según Ley 27.802, art. 10): la pluspetición inexcusable se configura de manera objetiva ante sobreestimación de los créditos reclamados, sin requerir dolo ni mala fe del letrado, y genera costas solidarias entre la parte y el profesional actuante. Calcular los rubros con precisión antes de consignar montos en cualquier intimación de pago de indemnizaciones.
 
 ________________________________________

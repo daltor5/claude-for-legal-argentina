@@ -4,7 +4,7 @@ Actualizado conforme Ley 27.742 (Bases, julio 2024) y Ley 27.802 (Modernización
 ________________________________________
 
 NOTA GENERAL DE BLOQUE
-Art. 210 LCT (texto según Ley 27.802, art. 45): los certificados médicos deben contener diagnostico, tratamiento y días de reposo, y estar firmados digitalmente por profesional habilitado a través de plataformas autorizadas por la Ley 27.553. Incorporar esta referencia en los modelos de notificación de enfermedad.
+Art. 210 LCT (texto según Ley 27.802, art. 45; reglamentado por Decreto 407/2026, Anexo I art. 6, BO 1/6/2026): los certificados médicos deben contener diagnóstico, tratamiento y días de reposo, y deben emitirse electrónicamente por plataforma registrada en el ReNaPDiS (Registro Nacional de Plataformas Digitales Sanitarias) y ser suscriptos por profesional habilitado ante la REFEPS (Red Federal de Registros de Profesionales de la Salud). El soporte papel solo es válido ante contingencia técnica o falta de conectividad debidamente acreditada. Ver Regla 9 de reglas-normativas.md.
 Art. 177 LCT (texto según Ley 27.742): la protección por maternidad alcanza a "persona gestante". Adaptar la terminologia según el caso concreto.
 Art. 242 LCT (texto según Ley 27.742): la participación activa en bloqueos o tomas de establecimiento puede configurar injuria grave. No modifica los modelos de hostigamiento pero conviene tenerlo presente ante estrategias de conflicto colectivo simultáneas.
 ________________________________________
@@ -185,7 +185,7 @@ Marcadores pendientes:
 Normas con vigencia confirmada:
 - LCT art. 208: VIGENTE. Sin modificación sustancial en el régimen de pago (el proyecto de cambio a prestacion no remunerativa no se promulgo en la Ley 27.802).
 - LCT art. 209: VIGENTE.
-- LCT art. 210: reformado por Ley 27.802, art. 45. Certificados deben estar firmados digitalmente.
+- LCT art. 210: reformado por Ley 27.802, art. 45; reglamentado por Decreto 407/2026 (Anexo I art. 6). Certificados deben emitirse por plataforma ReNaPDiS con profesional habilitado en REFEPS. Soporte papel solo en contingencia técnica acreditada.
 - LCT art. 211: VIGENTE.
 - LCT art. 177: reformado por Ley 27.742. Proteccion a "persona gestante".
 - LCT art. 183: VIGENTE.

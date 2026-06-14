@@ -36,7 +36,7 @@ NOTA CRÍTICA - VACACIONES POR DERECHO PROPIO: Verificar que el plazo de 30 día
 
 Incluye: notificación de embarazo, accidente o enfermedad inculpable (art. 208 LCT), extensión de licencia (art. 209 LCT), alta médica con o sin incapacidad (art. 212 LCT), impugnación de alta médica de empresa o ART (Ley 24.557), solicitud de junta médica, inicio del período de reserva de puesto (art. 211 LCT), denuncia ante ART por accidente laboral y enfermedad profesional.
 
-NOTA CRÍTICA - CERTIFICADOS MÉDICOS: Los certificados deben contener diagnóstico, tratamiento, días de reposo y firma digital conforme Ley 27.553 (art. 210 LCT, texto según Ley 27.802). Si el certificado aportado no reúne esos requisitos, señalarlo al abogado antes de fundar el reclamo en él. Ver Regla 9 en reglas-normativas.md.
+NOTA CRÍTICA - CERTIFICADOS MÉDICOS: Los certificados deben contener diagnóstico, tratamiento, días de reposo y firma digital del profesional (art. 210 LCT, texto según Ley 27.802; reglamentado por Decreto 407/2026, Anexo I art. 6, BO 1/6/2026). Deben emitirse electrónicamente por plataforma registrada en el ReNaPDiS (Registro Nacional de Plataformas Digitales Sanitarias) y el profesional debe estar habilitado en la REFEPS (Red Federal de Registros de Profesionales de la Salud). El soporte papel solo es válido ante contingencia técnica o falta de conectividad debidamente acreditada. Si el certificado aportado no reúne esos requisitos, señalarlo al abogado antes de fundar el reclamo en él. Ver Regla 9 en reglas-normativas.md.
 
 ---
 
@@ -51,6 +51,10 @@ NOTA CRÍTICA - MOBBING: Los términos mobbing y acoso laboral no tienen definic
 ## GRUPO 6. MODIFICACIONES CONTRACTUALES (IUS VARIANDI)
 
 Incluye: rechazo e intimación ante cambios de tareas, jornada, lugar de trabajo o salario (art. 66 LCT, texto según Ley 27.802), con o sin retención de tareas (arts. 1031 y 1032 CCyCN).
+
+**Nuevo desde Ley 27.802 — banco de horas (art. 197 bis LCT, texto según art. 42 Ley 27.802):** el art. 197 bis fue originalmente incorporado por el DNU 70/2023 reservando el banco de horas a convenios colectivos. La Ley 27.802 lo sustituyó habilitando el acuerdo individual. Dos tipos de comunicación específicos dentro de este grupo:
+- **Empleador propone banco de horas:** notificación al trabajador proponiendo acuerdo escrito de compensación de horas extraordinarias. Debe consignar: naturaleza voluntaria de la prestación, límites, modo de funcionamiento y sistema de control fehaciente de horas. No es ius variandi ni modificación unilateral si se formaliza con todos los requisitos del art. 197 bis.
+- **Trabajador rechaza banco de horas:** comunicación mediante la que el trabajador no consiente el sistema propuesto e intima al empleador a abstenerse de exigir horas extras sin el recargo del art. 201 LCT. Si el empleador impone el régimen unilateralmente sin acuerdo escrito, configura ius variandi abusivo (art. 66 LCT).
 
 NOTA CRÍTICA: El art. 66 LCT vigente eliminó la acción sumarísima de restablecimiento de condiciones. El único remedio disponible es, previa intimación desatendida, considerarse despedido sin causa. No redactar ni sugerir una vía de restablecimiento forzado que no existe. Ver Regla 6 en reglas-normativas.md.
 
@@ -89,3 +93,5 @@ NOTA DE ESTILO: Usar fórmulas del tipo "Rechazamos en todos y cada uno de sus t
 Incluye: intimación al registro bajo Ley 22.250, entrega de libreta de aportes, despido por falta de registro (art. 18, Ley 22.250).
 
 NOTA: La Ley 22.250 no fue modificada por la Ley 27.742 ni por la Ley 27.802. Continúa vigente como régimen especial con su propia estructura: Registro Nacional, Fondo de Cese Laboral, art. 35 como norma derogatoria parcial de la LCT en los temas específicamente regulados. Las modificaciones generales de la LCT se integran al régimen de la construcción solo donde no existe disposición específica contrapuesta en la Ley 22.250. No es necesaria verificación adicional sobre modificaciones directas a ese régimen. Si existe duda sobre un artículo específico de la Ley 22.250, aplicar Regla 11.
+
+NOTA SOBRE ESTATUTOS ESPECIALES DEROGADOS - VIGENCIA DIFERIDA AL 1/1/2027 (Ley 27.802, arts. 194-199): Los siguientes estatutos especiales fueron derogados por la Ley 27.802 con entrada en vigor el 1° de enero de 2027 - hasta esa fecha continúan vigentes: Estatuto del Periodista (Ley 12.908), Estatuto del Viajante de Comercio (Ley 14.546), Estatuto del Peluquero (Ley 23.947), Ley de Mano de Obra Nacional (Ley 24.493) y Ley 20.657 (horarios de comercio). Ante cualquier telegrama que involucre trabajadores de esos sectores, verificar si la derogación ya está en vigor antes de fundar el reclamo en esos estatutos.

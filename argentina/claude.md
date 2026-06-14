@@ -201,10 +201,23 @@ Esta excepción no aplica a jurisprudencia.
 Fuentes primarias de referencia
 
 InfoLEG (infoleg.gob.ar): texto oficial de normas nacionales
+Boletín Oficial nacional (boletinoficial.gob.ar): leyes, decretos, resoluciones, edictos
+Normas PBA (normas.gba.gob.ar): legislación provincial bonaerense
+Boletín Oficial PBA (boletinoficial.gba.gob.ar): publicaciones oficiales PBA
+JUBA (juba.scba.gov.ar): jurisprudencia SCBA y cámaras departamentales PBA
+SCBA sentencias (sentencias.scba.gov.ar): sentencias y resoluciones de primera instancia PBA
+CSJN (sj.csjn.gov.ar): jurisprudencia de la Corte Suprema
+PJN (pjn.gov.ar): jurisprudencia federal y consulta de expedientes
 SAIJ (saij.gob.ar): jurisprudencia, doctrina, legislación provincial
-PJN (pjn.gov.ar): acordadas y jurisprudencia federal
-SCBA (scba.gov.ar): jurisprudencia PBA
+JUSBAIRES (jusbaires.gob.ar): jurisprudencia CABA y fueros nacionales
+PTN (busquedadictamenes.ptn.gob.ar): dictámenes de la Procuración del Tesoro
+CNACAF (cnacaf.gov.ar): jurisprudencia contencioso administrativo federal
+IGJ (igj.gob.ar): resoluciones societarias CABA
+DPPJ (gba.gob.ar/dppj): resoluciones societarias PBA
+TFN (tfn.gob.ar): jurisprudencia tributaria y aduanera
+BCRA (bcra.gov.ar): normativa cambiaria
 AAIP (argentina.gob.ar/aaip): disposiciones de datos personales
+ANDIS (andis.gob.ar): nomenclador, CUD y PNC (discapacidad)
 
 En caso de discrepancia entre cualquier conector MCP y una fuente primaria oficial,
 prevalece la fuente primaria.
@@ -394,7 +407,22 @@ Para consultas de una sola área: el sistema indica qué perfil cargar y puede c
 Para consultas multidisciplinarias (ejemplo: M&A con impacto laboral e impositivo): el sistema identifica todas las áreas involucradas, indica qué perfiles cargar, y opera con el conocimiento base del CLAUDE.md general hasta que se carguen los perfiles.
 
 Perfiles disponibles y cuándo activarlos:
-PerfilActivar cuando la consulta involucra...laboral-CLAUDE.mdcontrato de trabajo, despido, liquidación, accidente laboral, sindicato, CCTlaboral-CLAUDE.md + laboral/telegrama/telegramas-SKILL.mdtelegramas laborales, cartas documento, intimaciones, notificaciones fehacientes laboralescivil-CLAUDE.md + ejemplos-civil.mddaños y perjuicios, responsabilidad civil, contratos civiles, prescripción civilcontratos/CLAUDE.md + contratos/red-flags.mdrevisión o redacción de contratos (NDA, servicios, compraventa, locación, SaaS, mutuo, agencia)societario-CLAUDE.md + ejemplos-societario.mdconstitución de sociedades, M&A, due diligence, pactos de accionistasadministrativo-CLAUDE.mdrecurso administrativo, responsabilidad del Estado, contratación pública, empleo públicotributario-CLAUDE.mdARCA, TFN, IVA, Ganancias, ingresos brutos, régimen penal tributariopenal-CLAUDE.mdimputado, procesado, defensa penal, querella, medidas cautelares penalesespecialidades/medicina-legal-CLAUDE.mdinforme médico-legal pericial, lesiones, imputabilidad, incapacidad laboral, invalidez previsional, praxis médica, amparo de salud, pericia en fuero penal / civil / seguridad socialfamilia-CLAUDE.mddivorcio, alimentos, cuidado personal, filiación, adopción, violencia familiarconcursos-CLAUDE.mdconcurso preventivo, quiebra, verificación de créditos, APE, cramdownplazos-SKILL.mdcómputo de plazos procesales o administrativos, prescripción, caducidad, ferias judiciales, SECLOdiagnostico-SKILL.mddiagnóstico previo de cualquier escrito aportado antes de modificarlo
+Perfil - Activar cuando la consulta involucra:
+- laboral-CLAUDE.md: contrato de trabajo, despido, liquidación, accidente laboral, sindicato, CCT
+- laboral-CLAUDE.md + laboral/telegrama/telegramas-SKILL.md: telegramas laborales, cartas documento, intimaciones, notificaciones fehacientes laborales
+- civil-CLAUDE.md + ejemplos-civil.md: daños y perjuicios, responsabilidad civil, contratos civiles, prescripción civil
+- contratos/CLAUDE.md + contratos/red-flags.md + contratos/indices-y-tasas.md: revisión o redacción de contratos (NDA, servicios, compraventa, locación, SaaS, mutuo, agencia)
+- discapacidad-CLAUDE.md + discapacidad-DOCTRINA.md + ejemplos-discapacidad.md: amparo de salud, obra social o prepaga, ANDIS, CUD, AT, PNC, prestaciones fuera de nomenclador, cupo laboral, sistema de apoyos
+- societario-CLAUDE.md + ejemplos-societario.md: constitución de sociedades, M&A, due diligence, pactos de accionistas
+- administrativo-CLAUDE.md: recurso administrativo, responsabilidad del Estado, contratación pública, empleo público (perfiles jurisdiccionales en administrativo/)
+- tributario-CLAUDE.md: ARCA, TFN, IVA, Ganancias, ingresos brutos, régimen penal tributario
+- penal-CLAUDE.md: imputado, procesado, defensa penal, querella, medidas cautelares penales
+- especialidades/medicina-legal-CLAUDE.md: informe médico-legal pericial, lesiones, imputabilidad, incapacidad laboral, invalidez previsional, praxis médica, amparo de salud, pericia en fuero penal / civil / seguridad social
+- especialidades/notarial/notarial-CLAUDE.md + especialidades/notarial/notarial-clausulas.md: escrituras traslativas, donaciones, poderes, actas, compliance UIF, sucesiones extrajudiciales
+- familia-CLAUDE.md: divorcio, alimentos, cuidado personal, filiación, adopción, violencia familiar
+- concursos-CLAUDE.md: concurso preventivo, quiebra, verificación de créditos, APE, cramdown
+- plazos-SKILL.md: cómputo de plazos procesales o administrativos, prescripción, caducidad, ferias judiciales, SECLO
+- diagnostico-SKILL.md: diagnóstico previo de cualquier escrito aportado antes de modificarlo
 Para conectores de fuentes primarias (InfoLEG, BORA, SAIJ, SCBA, CSJN, etc.):
 ver argentina/fuentes.md.
 
@@ -436,7 +464,13 @@ argentina/
   administrativo/                    # Perfiles jurisdiccionales (ver README.md para listado completo)
   especialidades/
     medicina-legal-CLAUDE.md         # Pericia médica forense (penal / civil / seguridad social)
+    notarial/
+      notarial-CLAUDE.md               # Derecho notarial (protocolo, compliance UIF, escrituras)
+      notarial-clausulas.md            # Biblioteca de cláusulas tipo
+      notarial-_PROVINCIA_-CLAUDE.md   # Template para perfiles jurisdiccionales
   civil-CLAUDE.md                   # Perfil derecho civil (CCCN)
+  discapacidad-CLAUDE.md            # Perfil derecho de la discapacidad (Ley 24.901, CDPCD, CUD, PNC)
+  discapacidad-DOCTRINA.md          # Doctrina y jurisprudencia de discapacidad por instituto
   concursos-CLAUDE.md               # Perfil concursos y quiebras (LCQ)
   familia-CLAUDE.md                 # Perfil derecho de familia
   laboral-CLAUDE.md                 # Perfil derecho del trabajo (LCT)
@@ -458,15 +492,22 @@ argentina/
   societario-CLAUDE.md              # Perfil derecho societario (LGS)
   tributario-CLAUDE.md              # Perfil derecho tributario
   ejemplos-civil.md                 # Casos de daños y responsabilidad civil
+  ejemplos-laboral.md               # Casos laborales
   ejemplos-societario.md            # Due diligence y pactos de accionistas
+  ejemplos-discapacidad.md          # Casos de sentencia anotados de discapacidad
   fuentes.md                        # Conectores MCP y fuentes primarias
   macos-automation.md               # Módulo opcional - automatización de escritorio macOS (Claude Code)
   legal.local.md.template           # Template de configuración local del estudio (por rama del derecho)
   evals/                            # Casos de control para verificar perfiles de área
-    README.md                       # Formato estándar y áreas prioritarias
+    evals-README.md                 # Formato estándar y áreas prioritarias
     administrativo-caba-recursos-agotamiento-via/
 
-Última actualización: mayo 2026
+Última actualización: junio 2026
 Normativa base: CCCN (Ley 26.994), LCT (Ley 20.744), LDC (Ley 24.240),
 LGS (Ley 19.550), Ley 25.326, CPCCN, CPCCBA
 Autor: Dr. Cristian Aboitiz · @abogadoaboitiz
+Licencia: el contenido original de este fork se publica bajo licencia dual - uso
+no comercial libre con atribución; uso comercial requiere autorización previa.
+Términos completos en LICENSE-FORK.md. El código base upstream permanece bajo
+Apache License 2.0 (ver LICENSE).
+Copyright (c) 2024-2026 Cristian Aboitiz. Todos los derechos reservados.

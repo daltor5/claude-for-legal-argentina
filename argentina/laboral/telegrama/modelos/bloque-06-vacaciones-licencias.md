@@ -4,9 +4,10 @@ Actualizado conforme Ley 27.742 (Bases, julio 2024) y Ley 27.802 (Modernización
 ________________________________________
 
 NOTA GENERAL DE BLOQUE
-Art. 157 LCT (texto según Ley 27.742, art. 41): el plazo de notificación previa que debe incumplir el empleador para que el trabajador quede habilitado a tomar vacaciones por derecho propio es de 30 días (antes 45). Verificar que ese plazo este efectivamente vencido antes de enviar la notificación de goce por derecho propio.
-Art. 177 LCT (texto según Ley 27.742, art. 93): la licencia por maternidad amplio su alcance a "persona gestante". El minimo de licencia previa al parto puede reducirse hasta 10 días (antes 30). Los modelos de notificación de embarazo y licencia por maternidad deben reflejar esta terminologia.
-Art. 41 Ley 27.802: incorpora mecanismo expreso para enfermedad durante vacaciones. Si el trabajador enferma durante el goce, se cumple el plazo de vacaciones y el saldo se reprograma. La suspensión de vacaciones por enfermedad del modelo anterior queda modificada en sus efectos practicos.
+Art. 154 LCT (texto según Ley 27.802, art. 41): el empleador debe notificar la fecha de inicio de vacaciones con no menos de 30 días de anticipación (antes 45). Las partes pueden convenir el goce fuera del período legal (octubre/abril). Se habilita el fraccionamiento con tramos mínimos de 7 días. Enfermedad durante vacaciones: el trabajador se reintegra al finalizar el período vacacional previsto y el saldo de días no gozados se reprograma.
+Art. 157 LCT (texto según Ley 27.802): si el empleador no notifica la fecha dentro del plazo de 30 días previo al vencimiento del período legal, el trabajador puede tomar las vacaciones por su propia cuenta notificando fehacientemente. Verificar que ese plazo esté efectivamente vencido antes de enviar la notificación de goce por derecho propio.
+Art. 177 LCT (texto según Ley 27.742, art. 93): la licencia por maternidad amplió su alcance a "persona gestante". El mínimo de licencia previa al parto puede reducirse hasta 10 días (antes 30). Los modelos de notificación de embarazo y licencia por maternidad deben reflejar esta terminología.
+Art. 41 Ley 27.802: incorpora mecanismo expreso para enfermedad durante vacaciones. Si el trabajador enferma durante el goce, se cumple el plazo de vacaciones y el saldo se reprograma. La suspensión automática del término vacacional hasta el alta ya no opera.
 ________________________________________
 
 Intimando al pago de vacaciones adeudadas (sin cambios sustanciales)
@@ -17,7 +18,7 @@ ________________________________________
 Notificando fecha de goce de vacaciones ante omisión patronal (ACTUALIZADO)
 Lugar y fecha. Atento a su omisión a indicarme la fecha de inicio de mi licencia anual ordinaria por vacaciones, tal como le fuera requerido de manera verbal y mediante telegrama [numero], y habiendo vencido el plazo de 30 días que prescribe el art. 157 de la LCT sin que haya cumplido con su obligación de comunicación, le informo que mis vacaciones seran gozadas desde el dia [fecha] hasta el [fecha]. Queda Ud. debidamente notificado.
 
-Revisar antes de enviar: el plazo es de 30 días conforme la Ley 27.742 (no 45). Verificar que ese plazo este efectivamente vencido antes de enviar. Además, las vacaciones deben concluir antes del 31 de mayo del año respectivo (art. 157 LCT).
+Revisar antes de enviar: el plazo es de 30 días conforme la Ley 27.802 (no 45; reforma introducida por art. 41 Ley 27.802 al art. 154 LCT y reflejada en el art. 157 LCT). Verificar que ese plazo esté efectivamente vencido antes de enviar. Además, las vacaciones deben concluir antes del 31 de mayo del año respectivo (art. 157 LCT).
 
 ________________________________________
 
@@ -104,11 +105,12 @@ Marcadores pendientes:
 - [año], [fecha], [mes], [número de telegrama], [cantidad], [parentesco], [CCT], [numero de art.], [nombre materia], [institucion], [nombre Registro Civil]: datos de cada caso concreto, a completar por el abogado antes del envio.
 
 Normas con vigencia confirmada:
-- LCT art. 157: reformado por Ley 27.742. Plazo de notificación previa: 30 días (no 45).
-- LCT art. 177: reformado por Ley 27.742. Alcance a "persona gestante"; minimo previo al parto reducible a 10 días.
-- LCT art. 210: reformado por Ley 27.802, art. 45. Certificados medicos deben estar firmados digitalmente.
+- LCT art. 154: reformado por Ley 27.802, art. 41. Plazo de notificación previa: 30 días (antes 45). Fraccionamiento habilitado con tramos mínimos de 7 días.
+- LCT art. 157: reformado por Ley 27.802. Vacaciones por derecho propio habilitadas si el empleador no notifica dentro del plazo de 30 días previo al vencimiento del período legal.
+- LCT art. 177: reformado por Ley 27.742, art. 93. Alcance a "persona gestante"; mínimo previo al parto reducible a 10 días.
+- LCT art. 210: reformado por Ley 27.802, art. 45; reglamentado por Decreto 407/2026 (Anexo I art. 6). Certificados deben emitirse por plataforma ReNaPDiS con profesional habilitado en REFEPS. Soporte papel solo en contingencia técnica acreditada.
 - LCT art. 158, 161, 164: VIGENTES sin modificaciones relevantes.
-- Art. 41 Ley 27.802 (modifica régimen de vacaciones LCT): saldo de días no gozados se reprograma; no opera suspensión automatica del período vacacional.
+- Art. 41 Ley 27.802 (modifica régimen de vacaciones LCT): saldo de días no gozados se reprograma; no opera suspensión automática del período vacacional.
 
 Decisiones estructurales por defecto:
 - Modelo de notificación de vacaciones por derecho propio actualizado a 30 días.
