@@ -21,7 +21,7 @@ jobs:
 
       - name: Agregar upstream y hacer merge
         run: |
-          git remote add upstream https://github.com/cristianaboitiz-eng/claude-for-legal-argentina.git
+          git remote add upstream https://github.com/Probanza-ar/claude-for-legal-argentina.git
           git fetch upstream main
           git merge upstream/main --no-edit --allow-unrelated-histories \
             -X ours \
