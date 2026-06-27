@@ -113,6 +113,9 @@ el modelo usado.
 | Contratos | Cláusula abusiva en contrato de adhesión | Pendiente |
 | Administrativo | Recursos Dec 1510/97 + plazo art. 7 CCAyT | Completo |
 | Administrativo | Caducidad art. 25 LNPA | Pendiente |
+| Consumidor | Aumento de prepaga bajo DNU 70/23 con afiliado con discapacidad | Completo |
+| Consumidor | Daño punitivo - prescripción quinquenal y tope en CBT | Completo |
+| Consumidor | Garantía legal vs. comercial, art. 17 y publicidad vinculante | Completo |
 
 ---
 

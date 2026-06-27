@@ -75,7 +75,7 @@ El sistema identifica el fuero y el código aplicable al inicio de cada consulta
 
 ## Alerta normativa - normas de vigencia variable
 
-*Última verificación de esta sección: mayo 2026. Actualizar cuando cambie alguna de las normas listadas.*
+*Última verificación de esta sección: junio 2026. Actualizar cuando cambie alguna de las normas listadas.*
 
 ### Reforma procesal penal federal
 El Código Procesal Penal Federal (CPPF, Ley 27.063) está en proceso de
@@ -85,9 +85,9 @@ del CPPF.
 
 Regla operativa:
 ```
-[VERIFICAR IMPLEMENTACIÓN CPPF: confirmar si el CPPF está vigente en el fuero
- y la etapa procesal específica de la consulta - la implementación es gradual
- y varía por jurisdicción]
+[VERIFICAR CRITERIO DEL FUERO: implementación del CPPF (Ley 27.063) - confirmar
+ si está vigente en el fuero y la etapa procesal específica de la consulta; la
+ implementación es gradual y varía por jurisdicción]
 ```
 
 ### Montos de punibilidad en delitos económicos
@@ -101,8 +101,7 @@ Los requisitos procedimentales y el estado de la jurisprudencia sobre
 colaboración eficaz están en desarrollo. Verificar criterio del fuero
 antes de asesorar sobre esta figura.
 ```
-[VERIFICAR CRITERIO JURISPRUDENCIAL VIGENTE: colaboración eficaz Ley 27.304
- en el fuero específico]
+[VERIFICAR CRITERIO DEL FUERO: colaboración eficaz Ley 27.304 - criterio jurisprudencial en el fuero específico]
 ```
 
 ---
@@ -111,7 +110,7 @@ antes de asesorar sobre esta figura.
 
 ### Derecho penal de fondo
 
-- **Código Penal (Ley 11.179)** y modificatorias - fuente principal
+- **Código Penal (Ley 11.179)** [VERIFICAR VIGENCIA] y modificatorias - fuente principal
 - **Ley 27.347:** modificación de penas para delitos contra la integridad sexual y delitos culposos de tránsito (arts. 84 bis y 94 bis CP)
 - **Ley 26.791:** homicidio agravado por violencia de género (femicidio)
 - **Ley 27.375:** modificación régimen de libertad condicional
@@ -139,12 +138,13 @@ Alerta: la "no punibilidad relativa" del menor de 16 a 18 años no impide la dis
 
 ### Organismos y fuentes primarias
 
-- **CSJN (csjn.gov.ar):** fallos, acordadas, estadísticas
-- **PJN (pjn.gov.ar):** jurisprudencia federal y nacional
+- **CSJN (sj.csjn.gov.ar):** fallos, acordadas, estadísticas
+- **PJN (pjn.gov.ar):** jurisprudencia federal y nacional y consulta de expedientes
+- **SAIJ (saij.gob.ar):** jurisprudencia, doctrina y legislación
 - **MPF (mpf.gov.ar):** resoluciones de política criminal
-- **SCBA (scba.gov.ar):** jurisprudencia PBA
-- **TSJ CABA (tsjcaba.gov.ar):** jurisprudencia CABA
-- **Infoleg (infoleg.gob.ar):** texto oficial de normas
+- **SCBA (scba.gov.ar) y JUBA (juba.scba.gov.ar):** jurisprudencia PBA y cámaras departamentales
+- **TSJ CABA (tsjcaba.gov.ar) / JUSBAIRES (jusbaires.gob.ar):** jurisprudencia CABA
+- **Infoleg (infoleg.gob.ar):** texto oficial de normas nacionales
 
 ---
 
@@ -154,7 +154,7 @@ Las reglas generales del CLAUDE.md argentino aplican íntegramente. Se agregan e
 
 **Jurisprudencia CSJN:** nunca citar caso, Fallos o considerando sin material aportado. Usar:
 ```
-[INSERTAR FALLO CSJN VERIFICADO: doctrina requerida]
+[INSERTAR FALLO VERIFICADO: CSJN - doctrina requerida]
 ```
 
 **Jurisprudencia de cámara:** identificar sala y fuero. No equiparar criterios entre salas ni entre fueros sin advertencia expresa. Usar:
@@ -165,6 +165,16 @@ Las reglas generales del CLAUDE.md argentino aplican íntegramente. Se agregan e
 **Doctrina:** citar autor y obra solo con material aportado. No atribuir posiciones doctrinarias sin respaldo.
 
 **Tipos penales:** citar siempre artículo y código con `[VERIFICAR VIGENCIA]` en la primera mención. El Código Penal tiene modificaciones frecuentes que pueden afectar la escala penal, el tipo subjetivo o las agravantes.
+
+---
+
+## Metodología de trabajo del caso
+
+Pasos previos al análisis de fondo, aplicables a cualquier fuero:
+
+- Diagnóstico provisorio y definitivo: el primer diagnóstico se arma con lo que aporta el cliente; el definitivo, recién después de compulsar el expediente. No fijar estrategia sobre la versión del cliente sin contrastarla con las constancias.
+- Determinación de objetivos: separar los objetivos de fondo (absolución, cambio de calificación, nulidad, extinción de la acción) de los objetivos de libertad (eximición, excarcelación, cese de prisión preventiva, morigeración). Pueden perseguirse en paralelo y por vías distintas.
+- Regla de incorporación al debate: lo actuado en la investigación no rige por sí en el juicio; lo que no se incorpora al debate -por producción oral o por lectura cuando la ley lo admite- no puede fundar la sentencia. El ofrecimiento de prueba para el juicio es definitorio: planificarlo desde el diagnóstico definitivo.
 
 ---
 
@@ -207,9 +217,24 @@ Marco de análisis (aplicar según fuero):
 - Prohibición de salida del país
 - Presentación periódica
 
-**Jurisprudencia CSJN de referencia (aportar fallos para citar):**
-- Doctrina sobre excepcionalidad de la prisión preventiva
-- Estándares de la CIDH sobre prisión preventiva
+**Jurisprudencia cargada (ver penal-DOCTRINA.md; verificar texto íntegro antes de transcribir):**
+- CSJN: "Nápoli" (Fallos 321:3633), "Nánez" (Fallos 327:2403), "Véliz" (causa 5640, 15/6/2010) y el plenario "Díaz Bessone" (C.N.C.P.) - inconstitucionalidad del automatismo por la sola gravedad del delito; la libertad es la regla; el peligro procesal debe fundarse en datos objetivos.
+- Corte IDH: "Suárez Rosero", "Bayarri vs. Argentina", "Jenkins vs. Argentina", "Tzompaxtle Tecpile vs. México", "García Rodríguez vs. México" - prisión preventiva como medida cautelar excepcional; no es pena anticipada; la carga de probar el peligro procesal recae en la acusación.
+
+### Eximición de prisión y excarcelación
+
+Institutos diferenciados de las alternativas a la prisión preventiva: operan como remedios para obtener o conservar la libertad durante el proceso. La denominación y los presupuestos varían por fuero; lo que sigue toma como referencia el CPPBA y no se transpola sin verificación a CPPN, CPPF ni CPPCABA.
+
+- Eximición de prisión: se pide para evitar que se haga efectiva una orden de detención antes de la privación de libertad. Procede cuando, por la escala penal o por la ausencia de peligros procesales, correspondería que el imputado transite el proceso en libertad.
+- Excarcelación: procede cuando el imputado ya está detenido.
+  - Ordinaria: fundada en las escalas penales y pautas legales (art. 169 CPPBA [VERIFICAR VIGENCIA]).
+  - Extraordinaria: fundada en la valoración objetiva de ausencia de peligro procesal o en circunstancias particulares -por ejemplo, enfermedad grave-, aun cuando la escala penal no habilite la vía ordinaria.
+
+La denegatoria de la excarcelación es impugnable; verificar recurso y plazo en el código aplicable al fuero.
+
+```
+[VERIFICAR CRITERIO DEL FUERO: nomenclatura y presupuestos de eximición de prisión y excarcelación - el CPPBA los regula como institutos autónomos (art. 169 y concordantes); otros códigos canalizan la cuestión por la vía de la prisión preventiva y sus alternativas]
+```
 
 ### Declaración del imputado
 
@@ -248,7 +273,7 @@ Normativa:
 Doctrina CSJN sobre actos interruptivos:
 - La expresión "secuelas del juicio" del art. 67 CP fue objeto de interpretación extensa por la CSJN; los actos que interrumpen la prescripción varían según el sistema procesal aplicable
 ```
-[INSERTAR FALLO CSJN VERIFICADO: doctrina sobre actos interruptivos de la prescripción según el código procesal aplicable]
+[INSERTAR FALLO VERIFICADO: CSJN - doctrina sobre actos interruptivos de la prescripción según el código procesal aplicable]
 ```
 
 Preguntas de diagnóstico:
@@ -261,7 +286,7 @@ Preguntas de diagnóstico:
 Alertas específicas:
 - La prescripción es de orden público: puede declararse de oficio en cualquier estado del proceso
 - En concurso de delitos: la prescripción corre independientemente para cada delito
-- Delitos imprescriptibles: crímenes de lesa humanidad (jurisprudencia CSJN consolidada); verificar si el caso involucra esta categoría
+- Delitos imprescriptibles: crímenes de lesa humanidad (CSJN, "Arancibia Clavel", Fallos 327:3312, y "Simón", Fallos 328:2056; ver penal-DOCTRINA.md, sección 8). Verificar si el caso involucra esta categoría
 - Verificar si el delito tiene plazo especial de prescripción por norma específica (ej. régimen penal tributario)
 
 ### Juicio abreviado
@@ -417,7 +442,7 @@ En el juicio por jurados, las leyes provinciales obligan al juez a instruir al j
 El veredicto del jurado no es fundado (los jurados no expresan los motivos de su decisión). La cuestión de si la suficiencia probatoria es revisable en casación y bajo qué parámetros está en desarrollo jurisprudencial. La tendencia dominante en los fueros con jurados (en particular Neuquén y PBA) y en doctrina -siguiendo a Laudan y su recepción local- es que el control casatorio de la suficiencia de la prueba es admisible aunque limitado: el tribunal de casación puede verificar si existía evidencia suficiente para que un jurado racional condenara, pero no puede sustituir la valoración del jurado por la propia.
 
 ```
-[INSERTAR FALLO VERIFICADO: Cámara de Casación / TSJ provincial - doctrina sobre revisión de veredicto de jurado por insuficiencia probatoria]
+Doctrina cargada (ver penal-DOCTRINA.md): CSJN, "Canales" (Fallos 342:697) - constitucionalidad del veredicto inmotivado; Corte IDH, "V.R.P., V.P.C. y otros vs. Nicaragua" (Serie C No. 350, 8/3/2018); T.C.P. PBA Sala I, "Aref, Bertolano y Morales" (causa 75.937, Reg. 1119/2016, carátula verificada vía JUBA; regla del jurado razonable, estándar "Jackson"); TSJ Neuquén, "Sandoval" (primer juicio por jurados, Cutral Có, 10/4/2014) (revisión sobre evidencia, instrucciones y razonabilidad del veredicto). Verificar el texto íntegro antes de transcribir considerandos.
 ```
 
 **Preguntas de diagnóstico:**
@@ -457,7 +482,7 @@ Normativa por fuero (verificar artículo específico):
 - CPPN: arts. 166 y ss.
 - CPPF: arts. 114 y ss.
 - CPPCABA: arts. 71 y ss.
-- CPPBA: arts. 201 y ss.
+- CPPBA: arts. 201 (especificidad y trascendencia), 202 (nulidades generales), 203 (declaración de oficio), 205 (oportunidad de articulación bajo sanción de caducidad), 206 (saneamiento) y 207 (efectos) [VERIFICAR VIGENCIA]
 
 Marco de análisis:
 
@@ -465,9 +490,15 @@ Marco de análisis:
 
 **Nulidades relativas:** vicios que no afectan garantías constitucionales. Deben ser planteadas por la parte interesada en la oportunidad procesal correspondiente; si no se plantean en tiempo, se sanean.
 
+**Principio de especificidad o taxatividad:** rige el sistema legalista - un acto es nulo solo en los supuestos expresamente previstos por la ley (art. 201 CPPBA). No hay nulidad por analogía.
+
 **Principio de trascendencia:** no hay nulidad sin perjuicio. El planteo debe demostrar el perjuicio concreto que el vicio causó al derecho de defensa; la nulidad no procede si el acto cumplió su finalidad.
 
-**Principio de convalidación:** quien consintió expresa o tácitamente el acto viciado no puede luego impugnarlo por nulidad.
+**Principio de instrumentalidad de las formas:** las formas no son un fin en sí mismas. Si el acto defectuoso alcanzó su finalidad sin lesionar garantías, conserva validez.
+
+**Principio de convalidación:** quien consintió expresa o tácitamente el acto viciado no puede luego impugnarlo por nulidad. Las nulidades relativas se sanean si no se plantean en la primera oportunidad posterior al conocimiento del vicio.
+
+**Principio de conservación y economía procesal:** se prioriza la validez de lo actuado y se evitan retrocesos innecesarios cuando el vicio es subsanable o no causó perjuicio.
 
 Oportunidades para plantear:
 - Durante la instrucción/investigación: en el acto o inmediatamente después de conocido el vicio
@@ -486,6 +517,43 @@ Alertas específicas:
 - La nulidad de un acto puede arrastrar la de los actos que de él dependan (nulidad derivada - teoría del fruto del árbol envenenado)
 - En sistemas acusatorios (CPPF, CPPCABA, CPPBA): las nulidades se canalizan principalmente como excepciones o planteos en audiencia; verificar el mecanismo específico del fuero
 - Nulidad de la detención: impacta directamente sobre la validez de los actos posteriores (declaración, allanamiento, secuestro)
+
+Jurisprudencia sobre interpretación restrictiva de las nulidades (leads a verificar - sin cita completa):
+```
+[INSERTAR FALLO VERIFICADO: CSJN - "Bianchi" (2002), interpretación restrictiva de las nulidades / no hay nulidad sin perjuicio irreparable]
+[INSERTAR FALLO VERIFICADO: sala/fuero - "G. Domingo Fernando" (2019), nulidad relativa por falta de testigos del acta cuando no se demuestra falsedad ni perjuicio concreto]
+```
+
+---
+
+## Prueba: libertad probatoria, valoración y regla de exclusión
+
+**Libertad probatoria:** puede producirse cualquier medio de prueba que no afecte garantías constitucionales. El límite es la regla de exclusión: la prueba obtenida con violación de garantías es inválida.
+
+**Medios de prueba (notas operativas):**
+- Testimonial: rigen la capacidad para atestiguar, las prohibiciones y el deber de abstención (secreto profesional, vínculo familiar). Verificar en el código del fuero quién está exento o prohibido de declarar.
+- Pericial: peritos oficiales y de parte; el dictamen no obliga al juez, que lo valora de modo fundado.
+- Documental: instrumentos públicos (hacen fe por sí) y privados (pueden requerir reconocimiento de firma o pericia caligráfica). En juicio, la incorporación suele ser por lectura.
+
+**Valoración - sana crítica y psicología del testimonio:**
+La valoración se vuelca en sentencia motivada bajo sana crítica racional. En materia testimonial conviene distinguir:
+- Sinceridad: el testigo cree decir la verdad.
+- Veracidad: el relato coincide con lo ocurrido.
+
+La confianza del testigo no garantiza exactitud: hay "errores sinceros" por fallas en la percepción, la interpretación, la memoria o la recuperación del recuerdo. La distinción es central en delitos sin prueba directa (delitos sexuales, identificación de personas). Como referencia doctrinaria -no como autoridad argentina- la literatura sobre fiabilidad de la identificación de testigos remite a jurisprudencia estadounidense (Neil v. Biggers, 1972; Manson v. Brathwaite, 1976).
+
+**Regla de exclusión probatoria y nulidad derivada:**
+La prueba obtenida mediante un acto ilegal o lesivo de garantías debe descartarse. Por la teoría del fruto del árbol envenenado, la invalidez se extiende a los actos que dependan causalmente del vicio inicial; la extensión requiere nexo causal concreto.
+
+Excepciones que permiten que la prueba subsista (su invocación pesa sobre la acusación):
+- Fuente independiente: la prueba se obtuvo por un cauce de investigación lícito y paralelo, ajeno al vicio.
+- Descubrimiento inevitable: la evidencia se habría hallado igualmente por medios legales en curso.
+- Atenuación o purga del vicio: el vínculo entre la ilegalidad y la prueba es tan tenue que el vicio ya no la contamina.
+
+Jurisprudencia cargada (ver penal-DOCTRINA.md; verificar texto íntegro antes de transcribir): CSJN "Charles Hermanos", "Montenegro", "Fiorentino", "Rayford", "Ruiz", "Daray", "Quaranta" - regla de exclusión y fruto del árbol envenenado. Para la recepción de las excepciones:
+```
+[INSERTAR FALLO VERIFICADO: CSJN - recepción de las excepciones a la regla de exclusión (fuente independiente, descubrimiento inevitable, atenuación)]
+```
 
 ---
 
@@ -512,7 +580,7 @@ Alertas específicas:
 
 ### Responsabilidad penal de personas jurídicas (Ley 27.401)
 
-Normativa: Ley 27.401 (vigente). Modificó el art. 1 CP para incorporar la responsabilidad penal de personas jurídicas privadas en los delitos previstos en la ley.
+Normativa: Ley 27.401 [VERIFICAR VIGENCIA] (vigente). Establece un régimen autónomo de responsabilidad penal de las personas jurídicas privadas (art. 1), complementario del Código Penal (art. 27). La ley también reformó el art. 1 CP, pero solo a través de su art. 29 y al único efecto de extender la jurisdicción extraterritorial al cohecho transnacional del art. 258 bis; no fue el art. 1 CP el que incorporó la responsabilidad de las personas jurídicas, que surge de la propia Ley 27.401.
 
 Delitos alcanzados (catálogo cerrado):
 - Cohecho y tráfico de influencias (arts. 258 y 258 bis CP)
@@ -527,15 +595,16 @@ Presupuestos de imputación:
 - La persona jurídica es responsable aun cuando el individuo autor no sea punible o no haya sido identificado
 
 Eximentes y atenuantes:
-- Programa de integridad (compliance): su existencia y adecuación puede ser eximente o atenuante según los requisitos del art. 23 Ley 27.401; verificar si la empresa tenía programa implementado antes del hecho
-- Acuerdo de colaboración empresarial (art. 18 Ley 27.401): la persona jurídica puede celebrar acuerdo con el fiscal a cambio de beneficios procesales; requiere homologación judicial
+- Programa de integridad (compliance): su existencia y adecuación puede ser eximente (art. 9, con denuncia espontánea y devolución del beneficio) o atenuante (art. 8) según los requisitos de los arts. 22 y 23 Ley 27.401; verificar si la empresa tenía programa implementado antes del hecho
+- Acuerdo de colaboración eficaz (arts. 16 a 21 Ley 27.401): la persona jurídica puede celebrar acuerdo con el Ministerio Público Fiscal a cambio de beneficios procesales; el acuerdo se celebra conforme al art. 16 y su contenido se rige por el art. 18 (entre otras condiciones, multa equivalente a la mitad del mínimo del art. 7 inc. 1, restitución y decomiso); requiere control judicial (art. 19)
 
-Sanciones aplicables a la persona jurídica:
-- Multa
-- Suspensión total o parcial de actividades
-- Suspensión para participar en concursos o licitaciones estatales
-- Disolución y liquidación
+Sanciones aplicables a la persona jurídica (art. 7 Ley 27.401):
+- Multa de dos a cinco veces el beneficio indebido obtenido o que se pudo obtener
+- Suspensión total o parcial de actividades (máximo 10 años)
+- Suspensión para participar en concursos o licitaciones estatales (máximo 10 años)
+- Disolución y liquidación de la personería cuando fue creada al solo efecto del delito
 - Pérdida o suspensión de beneficios estatales
+- Publicación de un extracto de la sentencia condenatoria a costa de la persona jurídica
 
 Preguntas de diagnóstico:
 - ¿El delito imputado está en el catálogo cerrado de la Ley 27.401?
@@ -548,6 +617,7 @@ Alertas específicas:
 - La responsabilidad de la persona jurídica es independiente de la de la persona física: puede haber condena de la empresa aunque el individuo sea sobreseído o absuelto
 - El programa de integridad debe ser previo al hecho para ser valorado como eximente; un compliance implementado después del hecho solo puede operar como atenuante
 - Verificar si la empresa participa en licitaciones o contratos con el Estado: la suspensión como sanción puede tener impacto patrimonial inmediato y superior a la multa
+- Complicidad empresarial en lesa humanidad: el catálogo de la Ley 27.401 es de numerus clausus (delitos de corrupción) y no alcanza la lesa humanidad; el riesgo penal recae solo sobre las personas físicas, y la reparación civil contra la corporación prescribe (doctrina "Villamil"). Ver penal-DOCTRINA.md, sección 8
 
 ### Violencia de género y delitos contra la integridad sexual
 
@@ -558,6 +628,41 @@ Normativa específica:
 - Arts. 89-92 CP (lesiones) con agravantes de género
 - Art. 80 inc. 11 CP (femicidio)
 - Convenio de Belém do Pará (Ley 24.632)
+
+Bien jurídico: desde la Ley 25.087 [VERIFICAR VIGENCIA] (1999) el bien jurídico protegido es la integridad sexual -libertad de autodeterminación sexual-, en reemplazo del concepto de "honestidad" del texto anterior.
+
+Estructura del art. 119 CP [VERIFICAR VIGENCIA]:
+- Primer párrafo - abuso sexual simple: acto de connotación sexual sin consentimiento (tocamientos, actos con fin libidinoso).
+- Segundo párrafo - abuso sexual gravemente ultrajante: cuando, por su duración o por las circunstancias de realización, configura un sometimiento sexual ultrajante para la víctima.
+- Tercer párrafo - abuso sexual con acceso carnal: tras la Ley 27.352 [VERIFICAR VIGENCIA], acceso carnal por cualquier vía (anal, vaginal u oral) o introducción de objetos o partes del cuerpo por las dos primeras vías.
+- Cuarto y quinto párrafos - agravantes (ver abajo).
+
+Otros tipos:
+- Art. 120 CP: estupro - actos de los párrafos 2° o 3° del art. 119 con menor de 13 a 16 años, aprovechando su inmadurez sexual o una relación de preeminencia.
+- Art. 125 CP: corrupción de menores - delito de peligro; no exige que el menor resulte efectivamente corrompido.
+- Arts. 125 bis y 127 CP: promoción o facilitación de la prostitución y rufianería.
+- Art. 128 CP: producción y distribución de pornografía infantil.
+- Art. 129 CP: exhibiciones obscenas.
+- Art. 130 CP: rapto.
+- Art. 131 CP: grooming - contacto tecnológico con un menor con finalidad sexual.
+
+Consentimiento y edad:
+- Menor de 13 años: no hay consentimiento válido; el acto sexual es típico sin necesidad de acreditar falta de consentimiento.
+- Mayor de 13 años: debe acreditarse la falta de consentimiento (violencia, amenaza, abuso coactivo de una relación de dependencia o de poder, o aprovechamiento de la imposibilidad de la víctima de consentir libremente -por ejemplo, sueño o intoxicación).
+
+Agravantes (art. 119, párrafos 4° y 5° CP):
+- Vínculo: ascendiente, descendiente, hermano, tutor o encargado de la guarda. "Ascendiente" alude al vínculo consanguíneo; el caso adoptivo suele encuadrar por la vía de "encargado de la guarda".
+- Grave daño en la salud física o mental de la víctima.
+- Autor que sabe ser portador de una enfermedad de transmisión sexual grave, con peligro de contagio.
+- Comisión por dos o más personas o con armas.
+- Autor integrante de una fuerza de seguridad en ocasión de sus funciones.
+- Contra menor de 18 años aprovechando la situación de convivencia preexistente.
+
+Cuestiones probatorias:
+- Cámara Gesell para víctimas menores o vulnerables: el psicólogo conduce la entrevista; juez, fiscal y defensa intervienen desde sala contigua por audio y video. Verificar si está realizada o pendiente y resguardar su validez.
+- Valoración del testimonio de la víctima: aplicar la distinción sinceridad / veracidad (ver sección de prueba); la firmeza del relato no equivale a exactitud.
+
+Acción y probation: delitos de acción pública. La probation se deniega en hechos calificados como violencia de género (CSJN "Góngora", Fallos 336:392; ver penal-DOCTRINA.md y la sección de suspensión del proceso a prueba). Discutir primero la calificación del hecho.
 
 Reglas operativas específicas:
 - En causas con víctima, identificar si hay Cámara Gesell realizada o pendiente
@@ -570,7 +675,7 @@ Reglas operativas específicas:
 Normativa específica:
 - Ley 23.737 y modificatorias
 - Distinción tenencia simple / tenencia para consumo personal / tenencia para comercialización
-- Fallo "Arriola" CSJN (declaró inconstitucional la persecución penal de la tenencia para consumo personal en determinadas circunstancias; el art. 14 segundo párrafo Ley 23.737 sigue vigente formalmente): aportar el fallo para citar
+- CSJN, "Arriola, Sebastián y otros", Fallos 332:1963 (5/8/2009): inconstitucional la persecución penal de la tenencia para consumo personal cuando no hay peligro concreto ni daño a terceros (art. 19 CN); el art. 14, segundo párrafo, Ley 23.737 subsiste formalmente. Ver penal-DOCTRINA.md; verificar el texto íntegro antes de transcribir
 - Agravantes por cantidad, organización y calidad del autor
 
 Preguntas de diagnóstico:
@@ -700,7 +805,7 @@ Alertas específicas:
 - La resolución que rechaza el hábeas corpus es apelable; verificar plazo según la ley aplicable al fuero
 
 ```
-[INSERTAR FALLO CSJN VERIFICADO: "Verbitsky" - hábeas corpus colectivo y condiciones de detención]
+Doctrina cargada: CSJN, "Verbitsky, Horacio s/ hábeas corpus", Fallos 328:1146 (3/5/2005) - hábeas corpus colectivo correctivo, condiciones de detención y remedio estructural. Ver penal-DOCTRINA.md. Verificar el texto íntegro antes de transcribir considerandos.
 ```
 
 ---

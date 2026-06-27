@@ -202,6 +202,26 @@ Ejemplos:
 
 ---
 
+### A11 · VERIFICAR PLAZO
+
+**Uso:** plazos procesales o administrativos ordinarios (para descargo, recurso, contestación) cuyo valor concreto varía por jurisdicción o código local y debe confirmarse contra la norma aplicable antes de citarlo. Distinto de A10 (ALERTA PLAZO FATAL), reservado para plazos de caducidad o prescripción cuyo vencimiento extingue el derecho o la acción. Usado en administrativo y en tránsito, donde el plazo depende del código de faltas de cada jurisdicción.
+
+**Sintaxis:**
+```
+[VERIFICAR PLAZO: acto procesal - norma de la jurisdicción]
+```
+
+Ejemplos:
+```
+[VERIFICAR PLAZO: descargo ante el juez de faltas - código de faltas de la jurisdicción]
+[VERIFICAR PLAZO: recurso contra la resolución sancionatoria - norma procesal local]
+[VERIFICAR PLAZO: prescripción de la acción de falta - código local]
+```
+
+**Nunca:** usar para plazos fatales de caducidad o prescripción extintiva del derecho (usar A10). No combinar con A1 en un mismo corchete.
+
+---
+
 ## Categoría B - Integridad probatoria
 
 Marcan ausencia de material fáctico o jurisprudencial necesario para sostener el argumento.
@@ -260,6 +280,24 @@ Ejemplos:
 ```
 
 **Nunca:** `[VACÍO DOCUMENTAL]`, `[VACÍO CUANTIFICATIVO]` (reemplazadas por esta forma canónica con descripción específica).
+
+---
+
+### B4 · VERIFICAR CITA DE FALLOS
+
+**Uso:** cuando la carátula, la fecha y el holding de un fallo fueron verificados vía conector (SAIJ/CSJN/JUBA), pero falta cerrar el número de colección oficial (Fallos tomo:página) porque el conector no lo expone. Distinto de B1: en B1 no hay fallo verificado; en B4 el fallo está verificado y solo resta completar la cita formal contra la fuente oficial.
+
+**Sintaxis:**
+```
+[VERIFICAR CITA DE FALLOS: "carátula" - fecha y holding verificados - completar tomo:página contra fuente oficial]
+```
+
+Ejemplo:
+```
+[VERIFICAR CITA DE FALLOS: "Acosta, Alejandro Esteban" - fecha y holding verificados vía SAIJ - completar tomo:página de Fallos contra sj.csjn.gov.ar]
+```
+
+**Nunca:** usar para un fallo cuyo holding no fue verificado (en ese caso, B1).
 
 ---
 
@@ -434,6 +472,7 @@ y los reemplaza por la forma canónica. Usar para actualizar archivos existentes
 
 ---
 
-*Última actualización: mayo 2026*
+*Última actualización: junio 2026*
+*Versión: 1.2 - agregado marcador B4 [VERIFICAR CITA DE FALLOS] (holding verificado, cita formal pendiente); usado en penal-DOCTRINA.md*
 *Versión: 1.1 - agregado marcador A10 [ALERTA PLAZO FATAL]; equivalencia [ALERTA DE PLAZO] registrada*
 *Autor: Dr. Cristian Aboitiz · [@abogadoaboitiz](https://x.com/abogadoaboitiz)*

@@ -47,10 +47,12 @@ No aplica doctrinas de common law de torts (duty of care anglosajón, punitive d
 - Competencia: contratos comerciales, responsabilidad derivada de actos de comercio, sociedades
 ### Fuero local CABA
  
-- **Código:** CPC CABA (Ley 6716 y modificatorias) - en implementación progresiva; verificar si la causa tramita ante el fuero unificado local o ante el fuero nacional según fecha de inicio y materia
-- **Juzgados:** Juzgados de Primera Instancia en lo Civil, Comercial y de Familia CABA (fuero unificado)
-- **Alzada:** Cámara de Apelaciones en lo Civil, Comercial y de Familia CABA
-- Regla operativa: verificar si la causa tramita ante fuero nacional o local según fecha de inicio, materia y si el demandado es el GCBA
+- **Estado:** la justicia civil y comercial ordinaria de la Ciudad sigue tramitando ante el fuero nacional (Juzgados Nacionales de Primera Instancia en lo Civil y en lo Comercial, con alzada en la CNAC y la CNACOM). No hay a la fecha un código procesal civil y comercial local de CABA en vigencia para esa materia: el traspaso de la justicia ordinaria a la Ciudad está pendiente y avanza por materias (consumo, contencioso administrativo y tributario), no en bloque. No citar un "código procesal civil y comercial de CABA" ni un "fuero civil unificado local" como derecho vigente para causas civiles y comerciales generales.
+- **Materias ya transferidas o locales:** para lo efectivamente atribuido al Poder Judicial de la Ciudad (contencioso administrativo y tributario, relaciones de consumo) rige el código procesal local respectivo. Verificar, según materia y fecha de inicio, si la causa corresponde al fuero nacional o al local.
+- Regla operativa: ante una causa en CABA, confirmar el fuero competente antes de citar el código procesal; no asumir traspaso consumado de la justicia civil y comercial.
+```
+[VERIFICAR VIGENCIA: estado del traspaso de la justicia nacional civil y comercial a la CABA y código procesal aplicable por materia]
+```
 ### PBA
  
 - **Código:** CPCCBA (Ley 7425 y modificatorias)
@@ -65,7 +67,7 @@ El sistema identifica el fuero al inicio de cada consulta. No transpola instituc
  
 ## Alerta normativa - normas de vigencia variable
  
-*Última verificación de esta sección: mayo 2026. Actualizar cuando cambie alguna de las normas listadas.*
+*Última verificación de esta sección: junio 2026. Actualizar cuando cambie alguna de las normas listadas.*
  
 ### Tasas de interés
 Las tasas de interés aplicables a condenas civiles y comerciales son fijadas
@@ -92,10 +94,14 @@ Regla operativa:
 ```
  
 ### Daño punitivo en consumo (art. 52 bis LDC)
-El artículo 52 bis LDC fue objeto de reformas en el proyecto de actualización
-de la LDC. Verificar si fue modificado antes de asesorar sobre el régimen vigente.
+Solo procede en relaciones de consumo. El art. 52 bis conserva el texto de la Ley 26.361
+(multa civil a favor del consumidor, graduada por la gravedad del hecho), pero el tope cambió
+de unidad: ya no es el monto fijo derogado de $5.000.000 sino la banda del art. 47 inc. b LDC,
+hoy expresada en Canastas Básicas Totales (CBT) del INDEC -hasta 2.100 CBT tipo 3- por el
+art. 119 de la Ley 27.701. El tope es móvil y se recalcula con la CBT vigente a la fecha de la
+demanda. Para todo lo relativo a consumo, regir por consumidor-CLAUDE.md.
 ```
-[VERIFICAR VIGENCIA: art. 52 bis LDC - estado de proyectos de reforma]
+[VERIFICAR VIGENCIA: valor de la CBT tipo 3 del INDEC a la fecha de la demanda, para liquidar el tope de 2.100 CBT del art. 47 inc. b Ley 24.240 (texto Ley 27.701)]
 ```
  
 ---
@@ -111,7 +117,7 @@ de la LDC. Verificar si fue modificado antes de asesorar sobre el régimen vigen
   - Libro Tercero, Títulos IV-XIII: contratos en particular (arts. 1123-1707)
   - Libro Tercero, Título V: otras fuentes de las obligaciones (arts. 1708-1881) - responsabilidad civil
 - **Ley 24.240 (Defensa del Consumidor)** y modificatorias: aplicación cuando hay relación de consumo; interacción con CCCN
-- **Ley 17.418 (Contrato de seguro):** responsabilidad del asegurador, acción directa, citación en garantía
+- **Ley 17.418 (Contrato de seguro):** responsabilidad del asegurador, citación en garantía (art. 118), límite de cobertura oponible al tercero
 - **Ley 24.449 (Tránsito):** accidentes viales, responsabilidad objetiva del conductor y guardián
 - **Ley 19.587 y Ley 24.557 (LRT):** articulación con daños en sede civil cuando corresponde
 - **Ley 25.675 (General del Ambiente):** responsabilidad ambiental y daño colectivo
@@ -134,8 +140,10 @@ de la LDC. Verificar si fue modificado antes de asesorar sobre el régimen vigen
 Cargar junto con este perfil en las instrucciones del Project para funcionamiento completo:
  
 - `argentina/ejemplos-civil.md` - casos resueltos de responsabilidad civil, accidentes de tránsito, mala praxis y consumo con checklist de rubros y fórmulas orientativas. El sistema lo consulta automáticamente ante cualquier cuantificación de daños o análisis de presupuestos de responsabilidad.
-- `argentina/red-flags-contratos.md` - lista de alertas para revisión de contratos bajo CCCN, LDC y normas especiales. El sistema lo aplica automáticamente ante cualquier contrato aportado en sesión (activación definida en `argentina/CLAUDE.md`).
-Sin `ejemplos-civil.md` cargado: el sistema opera sin referencia de estructura de cuantificación y no puede indicar qué fórmula usa cada sala. Sin `red-flags-contratos.md` cargado: el análisis de contratos civiles aplica solo las red flags integradas en el CLAUDE.md general.
+- `argentina/civil-DOCTRINA.md` - leading cases verificados por instituto (reparación integral, cuantificación e incapacidad, riesgo y deber de seguridad, seguro y franquicia, contratos y abuso del derecho), con cita de Fallos, síntesis en prosa propia y marcadores para los institutos sin fallo cargado. Consultarlo antes de invocar jurisprudencia; no transcribir considerandos sin verificar el texto íntegro.
+- `argentina/civil/escritos/escritos-civil-SKILL.md` - skill orquestador para redactar demandas de daños (accidente de tránsito, mala praxis médica, incumplimiento contractual), con modelos en `argentina/civil/escritos/modelos/`. Cargarlo cuando se pida redactar un escrito de daños; aplica las reglas de integridad y la verificación normativa del perfil.
+- `argentina/contratos/red-flags.md` - lista de alertas para revisión de contratos bajo CCCN, LDC y normas especiales. El sistema lo aplica automáticamente ante cualquier contrato aportado en sesión (activación definida en `argentina/CLAUDE.md`). Para redacción o revisión de contratos en profundidad, cargar también `argentina/contratos/CLAUDE.md` y `argentina/contratos/indices-y-tasas.md`.
+Sin `ejemplos-civil.md` cargado: el sistema opera sin referencia de estructura de cuantificación y no puede indicar qué fórmula usa cada sala. Sin `contratos/red-flags.md` cargado: el análisis de contratos civiles aplica solo las red flags integradas en el CLAUDE.md general.
  
 ---
  
@@ -201,7 +209,7 @@ Preguntas de diagnóstico:
 Alertas específicas:
 - Acumulación de rubros: controlar que no se indemnice dos veces el mismo perjuicio bajo distintas denominaciones
 - Prueba del daño moral: no requiere prueba directa (in re ipsa en ciertos supuestos), pero el fuero puede exigir indicios mínimos
-- Daño punitivo (art. 52 bis LDC): solo en relaciones de consumo, con dolo o culpa grave del proveedor. No extrapolar fuera de ese marco
+- Daño punitivo (art. 52 bis LDC): solo en relaciones de consumo. La jurisprudencia mayoritaria exige un factor de atribución calificado (menosprecio por los derechos del consumidor, grave indiferencia o aprovechamiento), no el mero incumplimiento. No extrapolar fuera del marco consumeril; tope móvil en CBT (ver consumidor-CLAUDE.md)
 ### Factores de atribución
  
 **Subjetivos:**
@@ -209,8 +217,8 @@ Alertas específicas:
 - Dolo (art. 1724 CCCN): actuación con intención de producir el daño o con manifiesta indiferencia
 **Objetivos:**
 - Riesgo creado (art. 1757 CCCN): cosas o actividades riesgosas o peligrosas. La víctima no debe probar culpa; el demandado se exime acreditando causa ajena
-- Garantía (arts. 1753-1756 CCCN): responsabilidad del principal por el dependiente; del dueño o guardián por la cosa
-- Equidad (art. 1742 CCCN): reducción equitativa de la indemnización si el responsable es insolvente y el daño fue involuntario
+- Garantía / hecho ajeno (arts. 1753-1756 CCCN): responsabilidad objetiva del principal por el hecho del dependiente y de quienes se sirve para cumplir. La responsabilidad del dueño o guardián por el riesgo o vicio de la cosa no es este factor, sino el de riesgo creado (arts. 1757-1758 CCCN)
+- Equidad (art. 1750 CCCN): el autor de un daño por acto involuntario responde por razones de equidad. No confundir con la atenuación equitativa de la indemnización del art. 1742 CCCN (facultad del juez según el patrimonio del deudor, la situación de la víctima y las circunstancias del hecho; no procede si hubo dolo del responsable)
 Regla operativa: ante responsabilidad objetiva, no construir la demanda sobre la culpa del demandado como elemento central; el régimen es más favorable para la víctima y no exige ese esfuerzo probatorio.
  
 ### Nexo causal y concurrencia de causas
@@ -254,7 +262,7 @@ Alertas específicas:
 Alertas de diagnóstico por tipo de contrato:
  
 **Compraventa (arts. 1123-1171 CCCN):**
-- Garantías: evicción (arts. 1044-1058 CCCN) y vicios ocultos / redhibitorios (arts. 1051-1058 CCCN)
+- Garantías de saneamiento (arts. 1033-1058 CCCN): responsabilidad por evicción (arts. 1044-1050) y por vicios ocultos / redhibitorios (arts. 1051-1058)
 - Plazo para reclamar vicios ocultos: caducidad de 3 años para inmuebles, 6 meses para muebles (art. 1055 CCCN)
 - Pacto de retroventa y retracto: verificar vigencia y plazos
 **Locación (arts. 1187-1226 CCCN):**
@@ -265,30 +273,31 @@ Alertas de diagnóstico por tipo de contrato:
 |---|---|
 | Antes del 30-jun-2020 | CCCN arts. 1187 y ss. (régimen original) |
 | 30-jun-2020 a 29-dic-2023 | Ley 27.551 + Ley 27.737 (modificatoria) - plazos mínimos, actualización por ICL/IPC/CER, garantías taxativas |
-| Desde el 30-dic-2023 | **Ley 27.551 y Ley 27.737 DEROGADAS por DNU 70/2023.** Rige CCCN con libertad contractual amplia |
+| Desde el 30-dic-2023 | **Ley 27.551 (Alquileres) DEROGADA por DNU 70/2023.** Rige el CCCN reformado por el DNU (arts. 1196, 1198, 1199, 1219, 1220, 1221, 765/766) con libertad contractual amplia; la Ley 27.737 subsiste solo en lo no derogado |
  
 Reglas del régimen vigente (contratos desde 30-dic-2023):
 - Plazo: libre; a falta de pacto expreso, 2 años para vivienda permanente y 3 años para otros destinos (art. 1198 CCCN)
 - Precio: libre, en cualquier moneda y con el índice de actualización que las partes acuerden
 - Garantías admisibles: las partes negocian libremente - no rigen las restricciones de la Ley 27.551
-- Rescisión anticipada del locatario: el art. 1221 CCCN (régimen base, sin la Ley 27.551) habilita al locatario a rescindir con preaviso de 60 días transcurridos los primeros 6 meses, con indemnización equivalente a un mes y medio de alquiler si la rescisión opera en el primer año, o de un mes si opera en el segundo. El régimen de indemnización del 10% del canon restante correspondía a la Ley 27.551, hoy derogada. Para contratos celebrados desde el 30-dic-2023 aplica el art. 1221 CCCN en su texto original salvo pacto en contrario.
+- Rescisión anticipada del locatario (texto vigente del art. 1221 CCCN según DNU 70/2023, art. 262): el locatario puede resolver en cualquier momento, sin esperar un plazo mínimo de permanencia ni dar un preaviso tarifado, abonando como indemnización el 10% del saldo del canon locativo futuro (la suma de los alquileres que restan desde la notificación de la rescisión hasta la finalización pactada). El DNU derogó además el art. 1221 bis (incorporado por la Ley 27.551 sobre renegociación en los últimos tres meses). Atención: la indemnización de un mes y medio / un mes y el preaviso de un mes pertenecen al texto anterior (Ley 27.551 / 27.737), hoy sustituido; rigen solo para contratos celebrados bajo aquel régimen.
 ```
-[VERIFICAR CRITERIO DEL FUERO: art. 1221 CCCN - indemnización por rescisión anticipada.
-Post-DNU 70/2023: debate no resuelto entre orden público de protección (parámetros como
-mínimo indisponible) y autonomía de la voluntad (parámetros como supletorio disponible,
-art. 958/1199 CCCN). Jurisprudencia de la CNAC y tribunales PBA en formación.
-Verificar criterio de la sala antes de consolidar pretensión o redactar cláusula.]
+[VERIFICAR VIGENCIA: art. 1221 CCCN texto según DNU 70/2023 - confirmar que la sustitución
+sigue vigente y no fue suspendida judicialmente ni alterada por ley posterior]
+[VERIFICAR CRITERIO DEL FUERO: si el 10% del canon futuro (art. 1221 vigente) es supletorio
+-las partes pueden pactar otra cosa- o un piso indisponible. La libertad contractual del DNU
+inclina por su carácter supletorio (arts. 958, 962 y 1199 CCCN); jurisprudencia de la CNAC y
+de tribunales PBA en formación. Verificar antes de consolidar pretensión o redactar cláusula.]
 ```
  
-**Análisis - art. 1221 CCCN post-DNU 70/2023: disponibilidad de la indemnización**
+**Análisis - art. 1221 CCCN (texto DNU 70/2023): naturaleza de la indemnización del 10%**
  
-La derogación de la Ley 27.551 por DNU 70/2023 reabrió una discusión que el régimen anterior había clausurado en la práctica. El texto del art. 1221 CCCN fija una indemnización (un mes y medio / un mes según el momento de la rescisión), pero no explicita si ese parámetro es de orden público o supletorio. Dos posiciones en disputa:
+La sustitución del art. 1221 por el DNU 70/2023 corrió el eje del debate. Ya no se discute "un mes y medio / un mes" sino una indemnización única del 10% del saldo del canon futuro, sin plazo mínimo de permanencia ni preaviso tarifado. La pregunta abierta es si ese 10% es supletorio o un piso indisponible:
  
-Corriente protectoria: los parámetros del art. 1221 operan como umbral mínimo indisponible en perjuicio del locatario, asimilable al orden público de protección que el CCCN reconoce en contratos con parte débil. Cualquier cláusula que agrave la penalidad para el inquilino o la elimine en su beneficio sería nula. Fundamento: los arts. 1094 y ss. CCCN y la lógica protectoria que impregna el estatuto del consumidor, extendida por analogía cuando hay desequilibrio estructural entre las partes.
+Lectura contractualista (dominante con el DNU): coherente con la libertad de contratación que el propio DNU erige en regla (arts. 958, 962 y 1199 CCCN), el 10% es supletorio. Las partes pueden pactar una indemnización mayor o menor, escalonamientos o dispensa, salvo que medie una relación de consumo que active un estatuto protectorio.
  
-Corriente liberal/contractualista: ante la derogación del régimen restrictivo de la Ley 27.551 y la vigencia plena del art. 1199 CCCN (libertad de contratación como regla), los parámetros del art. 1221 son supletorios. Las partes pueden pactar montos distintos, escalonamientos o dispensa total, en tanto no medie una relación de consumo que active un estatuto específico.
+Lectura protectoria (residual): el 10% operaría como tope o piso inderogable en perjuicio del locatario por aplicación analógica de la tutela de la parte débil (arts. 1094 y ss. CCCN) cuando hay desequilibrio estructural. Su recepción se debilitó tras el giro desregulatorio.
  
-Impacto práctico: la posición que adopte la sala sorteada determina la estrategia en litigios por cobro de pesos, consignación de llaves y nulidad de cláusulas contractuales. En redacción de contratos, la incertidumbre aconseja pactar expresamente los términos de rescisión y no remitirse al art. 1221 sin más.
+Impacto práctico: en litigios por cobro de la indemnización, consignación de llaves o nulidad de cláusulas, calificar el 10% como supletorio o imperativo define la estrategia. En redacción, conviene pactar expresamente los términos de rescisión y no remitirse al art. 1221 sin más. Para contratos anteriores al 30-dic-2023 rige el texto vigente a su celebración, no el del DNU.
  
 **Límite de la analogía consumeril**
  
@@ -305,13 +314,13 @@ Regla de transición: los contratos firmados durante la vigencia de la Ley 27.55
 **Mandato (arts. 1319-1334 CCCN):**
 - Distinguir mandato con y sin representación
 - Responsabilidad del mandatario por extralimitación
-**Contratos bancarios (arts. 1378-1420 CCCN):**
+**Contratos bancarios (arts. 1378 y ss. CCCN):**
 - Régimen especial de información y transparencia
 - Interacción con LDC cuando hay relación de consumo
 - Usura y tasas de interés: verificar criterio del fuero sobre tasas abusivas
 **Contrato de obra y servicios (arts. 1251-1279 CCCN):**
-- Responsabilidad del constructor por ruina de obra (art. 1273 CCCN): plazo de 10 años
-- Garantía por obra: 1 año desde la recepción (art. 1275 CCCN)
+- Responsabilidad del constructor por ruina total o parcial de obra destinada a larga duración (arts. 1273-1274 CCCN): doble plazo a distinguir. Caducidad: el daño debe producirse dentro de los 10 años de aceptada la obra (art. 1275 CCCN). Prescripción: la acción prescribe al año de producida la ruina (art. 2564 inc. c CCCN). La cláusula que excluye o limita esta responsabilidad es nula (art. 1276 CCCN)
+- Vicios o defectos no ostensibles y diferencias de calidad de la obra: rigen las normas de la obligación de saneamiento y vicios ocultos (arts. 1051-1058 CCCN), con la caducidad del art. 1055 (3 años inmuebles / 6 meses muebles) y la prescripción anual del art. 2564 inc. a
 ### Obligaciones en moneda extranjera (arts. 765 y 766 CCCN reformados)
  
 **Fuente:** DNU 70/2023 reformó los arts. 765 y 766 CCCN, vigente desde el 30-dic-2023. Vigencia formal no controvertida. Subsiste discusión doctrinal y jurisprudencial incipiente sobre su articulación con las disposiciones de orden público del CCCN - en particular, si la reforma habilita plena libertad de moneda en contratos con consumidores o si el estatuto del consumidor (arts. 1092 y ss. CCCN + LDC) opera como límite. Antes de asesorar en ese cruce específico, verificar criterio del fuero.
@@ -343,9 +352,10 @@ Alertas específicas:
 - Daños derivados de accidentes de tránsito: 3 años (art. 2561 CCCN)
 - Daños derivados de responsabilidad civil en general: 3 años (art. 2561 CCCN)
 - Acción de nulidad relativa: 2 años (art. 2562 CCCN)
-- Vicios redhibitorios: 3 años para inmuebles, 6 meses para muebles (art. 2564 CCCN)
-- Acción directa del damnificado contra el asegurador: 1 año (art. 58 Ley 17.418) - verificar interacción con plazo del CCCN
-- Acción de reducción de liberalidades (colación): 10 años (art. 2459 CCCN)
+- Reclamo por vicios redhibitorios: 1 año (art. 2564 inc. a CCCN). No confundir con la caducidad de la garantía (3 años para inmuebles, 6 meses para muebles, art. 1055 CCCN): la caducidad fija el plazo para que el vicio aparezca; la prescripción anual corre para accionar
+- Reclamo contra el constructor por ruina de obra de larga duración: 1 año desde producida la ruina (art. 2564 inc. c CCCN), dentro del plazo de caducidad decenal de aceptada la obra (art. 1275 CCCN)
+- Reclamo del damnificado contra el asegurador (vía citación en garantía, art. 118 Ley 17.418): plazo y cómputo discutidos. El art. 58 Ley 17.418 fija un año para las acciones derivadas del contrato de seguro, pero su oponibilidad al tercero damnificado no es pacífica. Verificar criterio del fuero antes de oponer o computar la prescripción
+- Acción de reducción de donaciones inoficiosas: el donatario o subadquirente que poseyó la cosa donada durante diez años queda a cubierto de la reducción (art. 2459 CCCN). No confundir reducción con colación (arts. 2385 y ss. CCCN): son institutos distintos
 **Cómputo (arts. 2554-2566 CCCN):**
 - Inicio: desde que el titular puede ejercer la acción
 - Suspensión e interrupción: verificar causales según la relación entre las partes
@@ -380,12 +390,12 @@ Alertas específicas:
 - Causas de monto reducido o urgencia
 - Defensa limitada: contestación + prueba en un solo acto en algunos fueros
 - Verificar si la demanda encuadra en el sumarísimo antes de optar por el ordinario
-### Acción directa del damnificado contra el asegurador
+### Citación en garantía del asegurador (art. 118 Ley 17.418)
  
-- **Art. 118 Ley 17.418:** acción directa del damnificado contra el asegurador del responsable civil
-- Citación en garantía: el demandado cita al asegurador para que tome intervención en el proceso
-- La sentencia hace cosa juzgada contra el asegurador hasta el límite de la cobertura
-- Regla operativa: verificar siempre la existencia de seguro y sus condiciones antes de plantear la estrategia
+- **Art. 118 Ley 17.418:** el damnificado o el asegurado demandado cita en garantía al asegurador del responsable civil para que intervenga en el proceso. La ley argentina no consagra, como regla, una acción directa autónoma del tercero contra la aseguradora: el vehículo es la citación en garantía, no una demanda directa al estilo de otros ordenamientos
+- La sentencia hace cosa juzgada contra el asegurador y es ejecutable contra él en la medida del seguro (límite de cobertura, franquicia y exclusiones oponibles al tercero según la jurisprudencia aplicable)
+- Oponibilidad de la franquicia al tercero damnificado: criterio discutido; verificar la doctrina vigente del fuero antes de cuantificar lo ejecutable contra la aseguradora
+- Regla operativa: verificar siempre la existencia de seguro, la vigencia de la póliza, el límite de cobertura y las exclusiones antes de plantear la estrategia y de citar en garantía
 ### Daños en accidentes de tránsito
  
 - **Régimen:** responsabilidad objetiva del dueño y guardián (arts. 1757-1758 CCCN + art. 64 Ley 24.449)
@@ -411,7 +421,9 @@ Alertas específicas:
 - Todo escrito civil cierra con "Estado del escrito" estándar más: fuero y competencia, régimen temporal aplicable (CC/CCom o CCCN), presencia de relación de consumo (sí/no), reclamo al asegurador (sí/no/a verificar), próximo plazo procesal si lo hay.
 ---
  
-*Última actualización: mayo 2026*
-*Normativa base: CCCN (Ley 26.994) - arts. 765/766 reformados por DNU 70/2023, LDC (Ley 24.240), Ley 17.418 (seguros), Ley 24.449 (tránsito). Locaciones: Ley 27.551 y Ley 27.737 derogadas por DNU 70/2023 desde el 30-dic-2023; contratos previos mantienen su régimen.*
-*Nota: para hechos o contratos anteriores al 1° de agosto de 2015, verificar régimen CC/CCom aplicable*
+*Última actualización: junio 2026*
+*Correcciones (auditoría, junio 2026): (1) prescripción del reclamo por vicios redhibitorios fijada en 1 año (art. 2564 inc. a CCCN), distinguida de la caducidad de la garantía del art. 1055; (2) responsabilidad por ruina de obra reexpresada con su doble plazo -caducidad decenal del art. 1275 y prescripción anual del art. 2564 inc. c-; (3) art. 1221 CCCN corregido: el texto vigente es el sustituido por el DNU 70/2023 (resolución en cualquier momento, indemnización del 10% del saldo del canon futuro), no el de "un mes y medio / un mes", que pertenece al régimen derogado; art. 1221 bis derogado; (4) alerta de daño punitivo alineada al tope móvil en CBT (art. 47 inc. b LDC, texto Ley 27.701); (5) fuero local CABA corregido: no hay código procesal civil y comercial local vigente, la justicia civil y comercial ordinaria sigue en el fuero nacional; (6) "acción directa" contra el asegurador reencuadrada como citación en garantía (art. 118 Ley 17.418); (7) referencias de archivos complementarios corregidas a contratos/red-flags.md.*
+*Normativa base: CCCN (Ley 26.994) - arts. 765/766 y locaciones (1196, 1198, 1199, 1219, 1220, 1221) reformados por DNU 70/2023; LDC (Ley 24.240, tope de multas en CBT por Ley 27.701); Ley 17.418 (seguros); Ley 24.449 (tránsito). Locaciones: Ley 27.551 derogada por DNU 70/2023 desde el 30-dic-2023; Ley 27.737 subsiste en lo no derogado; contratos previos mantienen su régimen. CPCCN: Ley 17.454 (t.o.); monto de apelabilidad del art. 242 actualizado por acordada de la CSJN -verificar el vigente.*
+*Jurisprudencia: los leading cases verificados están en `civil-DOCTRINA.md` (Santa Coloma, Aquino, Rodríguez Pereyra, Arostegui, Vuotto, Méndez, Mosca, Cuello, Buffoni, Automóviles Saavedra). Fuera de esos, toda cita jurisprudencial requiere material aportado en la sesión y verificación del texto íntegro antes de transcribir (regla de integridad).*
+*Nota: para hechos o contratos anteriores al 1° de agosto de 2015, verificar régimen CC/CCom aplicable.*
 *Autor: Dr. Cristian Aboitiz · [@abogadoaboitiz](https://x.com/abogadoaboitiz)*

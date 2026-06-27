@@ -130,13 +130,13 @@ Con los datos del Ejemplo 1:
 - El daño psicológico: verificar si el fuero lo reconoce como rubro autónomo
   o lo subsume en el daño moral. Si es autónomo, requiere pericia psicológica
   con diagnóstico y tratamiento indicado.
-- Citación en garantía: presentarla junto con la demanda. Si la aseguradora
-  alega falta de denuncia en término, verificar si la irregularidad es oponible
-  a la víctima. La defensa del art. 46 Ley 17.418 no es automáticamente oponible
-  al damnificado, quien es ajeno al vínculo entre asegurado y aseguradora
-  (CNCom, Sala B, "Nieto, Julio J. c/ Suizo Argentina Compañía de Seguros S.A.
-  s/ ordinario", 10-oct-1996, JA 1998-III-509; doctrina receptada en recursos
-  ante la CSJN).
+- Citación en garantía: presentarla junto con la demanda. Si la aseguradora alega
+  falta de denuncia en término, verificar si esa defensa -nacida después del siniestro-
+  es oponible al damnificado, que es ajeno al vínculo asegurado-aseguradora. Distinto
+  es el límite de cobertura o la franquicia: la CSJN los considera oponibles al tercero
+  (Cuello, Fallos 330:3483; Buffoni, Fallos 337:329; ver civil-DOCTRINA.md). Verificar
+  el criterio de la sala.
+  [INSERTAR FALLO VERIFICADO: oponibilidad al damnificado de la falta de denuncia del siniestro - sala actuante]
 ---
  
 ## Ejemplo 2 - Responsabilidad médica, mala praxis
@@ -181,8 +181,8 @@ El caso se gana o pierde en la pericia médica. Antes de demandar:
 **Notas:**
 - La carga de la prueba en mala praxis es del actor: debe probar la culpa del médico.
   En algunos fueros hay atenuación cuando el médico no aporta la historia clínica.
-- Art. 55 Ley 26.529: el médico tiene obligación de entregar copia de la historia clínica
-  al paciente. La negativa o demora genera presunción adversa.
+- Art. 14 Ley 26.529: el paciente es titular de la historia clínica y puede exigir copia,
+  que debe entregarse dentro de las 48 horas. La negativa o demora genera presunción adversa.
 - Prescripción: 3 años desde que el damnificado conoció o debió conocer el daño
   (art. 2561 párr. 2° CCCN para daños derivados de responsabilidad civil).
   Si el paciente era menor: corre desde la mayoría de edad.
@@ -217,8 +217,10 @@ Verificar si la entrega en plazo es obligación de medios o de resultado en el c
 | Pérdida de chance | Solo si hay proyecto frustrado acreditable | [CALCULAR si aplica] | - |
  
 **Notas:**
-- Vicios ocultos: plazo para accionar es de 3 años desde que el vicio fue conocido
-  (art. 1055 CCCN). Verificar que no prescribió antes de demandar por este concepto.
+- Vicios ocultos: distinguir caducidad y prescripción. La garantía caduca si el vicio
+  no se manifiesta dentro de los 3 años (inmueble) o 6 meses (mueble) desde la recepción
+  (art. 1055 CCCN); manifestado el vicio, la acción prescribe al año (art. 2564 inc. a CCCN).
+  Verificar ambos plazos antes de demandar por este concepto.
 - La constitución en mora: verificar si fue automática (plazo cierto, art. 886 CCCN)
   o requirió interpelación (art. 887 CCCN). Impacta en el inicio del cómputo de intereses.
 - Intereses moratorios: desde la mora hasta el pago. Tasa: la que fije el contrato,
@@ -239,9 +241,10 @@ Verificar si la entrega en plazo es obligación de medios o de resultado en el c
  
 Relación de consumo: LDC (Ley 24.240) y arts. 1092-1122 CCCN.
 En caso de duda sobre la interpretación: principio pro consumidor (art. 3 LDC).
-Daño punitivo (art. 52 bis LDC): procede cuando el proveedor actuó con dolo o
-culpa grave y de forma que merece una sanción ejemplar. Es el rubro que distingue
-al caso de consumo de uno civil ordinario.
+Daño punitivo (art. 52 bis LDC): procede ante un factor de atribución calificado del
+proveedor (menosprecio por los derechos del consumidor, grave indiferencia o aprovechamiento),
+no el mero incumplimiento. Es el rubro que distingue al caso de consumo de uno civil ordinario.
+Tope móvil en CBT del INDEC (art. 47 inc. b LDC, texto Ley 27.701); ver consumidor-CLAUDE.md.
  
 **Cuantificación:**
  
@@ -261,8 +264,9 @@ al caso de consumo de uno civil ordinario.
   (de 2 a 10 veces, según las circunstancias). [VERIFICAR CRITERIO DEL FUERO: ratio daño punitivo art. 52 bis LDC - sala actuante]
 - Legitimación activa para daño punitivo: solo el consumidor damnificado
   (art. 52 bis in fine LDC).
-- Prescripción en relaciones de consumo: 3 años (art. 50 LDC). Verificar que
-  el plazo no corrió desde el primer cobro indebido.
+- Prescripción de la acción de daños de consumo (contractual): 5 años (art. 2560 CCCN).
+  Tras la Ley 26.994, el art. 50 LDC rige solo las sanciones administrativas, no la acción
+  civil del consumidor. Verificar el dies a quo (cada cobro indebido puede tener el suyo).
 ---
  
 ## Checklist de rubros - demanda de daños completa
@@ -294,7 +298,9 @@ Usar antes de presentar cualquier demanda por daños.
 - [ ] Fórmula de incapacidad: verificar cuál aplica la sala
 ---
  
-*Última actualización: mayo 2026*
+*Última actualización: junio 2026*
+*Correcciones (auditoría, junio 2026): (1) prescripción de vicios ocultos reexpresada -caducidad del art. 1055 vs. prescripción anual del art. 2564 inc. a-; (2) prescripción de la acción de daños de consumo fijada en 5 años (art. 2560 CCCN), no 3 años del art. 50 LDC; (3) daño punitivo reencuadrado como factor de atribución calificado con tope móvil en CBT; (4) cita "Nieto c/ Suizo Argentina" -no verificable- reemplazada por marcador, con remisión a la doctrina verificada de franquicia (Cuello, Buffoni).*
+*Para fallos de referencia por instituto, ver `civil-DOCTRINA.md` (leading cases verificados).*
 *Los montos y fórmulas de estos ejemplos son orientativos. Verificar tasas de interés,
 criterios de cuantificación y jurisprudencia vigente de la sala antes de usar en cada caso.*
 *Normativa base: CCCN (Ley 26.994), LDC (Ley 24.240), Ley 26.529 (derechos del paciente)*
